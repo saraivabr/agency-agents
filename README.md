@@ -1,6 +1,10 @@
-# 🎭 The Agency: AI Specialists Ready to Transform Your Workflow
+Aqui está a tradução completa para o português do Brasil (pt-BR):
 
-> **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+---
+
+# 🎭 The Agency: Especialistas em IA Prontos para Transformar seu Fluxo de Trabalho
+
+> **Uma agência de IA completa ao seu alcance** — De magos do frontend a ninjas de comunidades no Reddit, de injetores de criatividade e bom humor a verificadores de realidade. Cada agente é um especialista dedicado com personalidade, processos e entregáveis comprovados.
 
 [![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)](https://github.com/msitarzewski/agency-agents)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -8,74 +12,74 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/msitarzewski)
 [![Download the app](https://img.shields.io/github/v/release/msitarzewski/agency-agents-app?label=Download%20app&color=2563eb)](https://github.com/msitarzewski/agency-agents-app/releases/latest)
 
-> ### 🆕 There's an app now
+> ### 🆕 Agora temos um aplicativo
 >
-> **[Agency Agents](https://agencyagents.app)** is a native app for **macOS, Linux & Windows** that browses the entire roster and installs it into Claude Code, Cursor, Codex, Gemini, Osaurus, and more — with a click. No clone, no scripts, and it auto-updates.
+> O **[Agency Agents](https://agencyagents.app)** é um aplicativo nativo para **macOS, Linux e Windows** que permite navegar por todo o catálogo de agentes e instalá-los no Claude Code, Cursor, Codex, Gemini, Osaurus e outros — com apenas um clique. Sem necessidade de clonar repositórios, sem scripts e com atualizações automáticas.
 >
-> **→ [Download the latest release](https://github.com/msitarzewski/agency-agents-app/releases/latest) · [agencyagents.app](https://agencyagents.app)**
+> **→ [Baixar a versão mais recente](https://github.com/msitarzewski/agency-agents-app/releases/latest) · [agencyagents.app](https://agencyagents.app)**
 
 ---
 
-## 🚀 What Is This?
+## 🚀 O que é isso?
 
-Born from a Reddit thread and months of iteration, **The Agency** is a growing collection of meticulously crafted AI agent personalities. Each agent is:
+Nascido de uma thread no Reddit e de meses de iteração, **The Agency** é uma coleção crescente de personas de agentes de IA meticulosamente construídas. Cada agente é:
 
-- **🎯 Specialized**: Deep expertise in their domain (not generic prompt templates)
-- **🧠 Personality-Driven**: Unique voice, communication style, and approach
-- **📋 Deliverable-Focused**: Real code, processes, and measurable outcomes
-- **✅ Production-Ready**: Battle-tested workflows and success metrics
+- **🎯 Especializado**: Conhecimento profundo em seu domínio (não são modelos de prompts genéricos)
+- **🧠 Orientado por Personalidade**: Voz, estilo de comunicação e abordagem únicos
+- **📋 Focado em Entregáveis**: Código real, processos claros e resultados mensuráveis
+- **✅ Pronto para Produção**: Fluxos de trabalho testados em batalha e métricas de sucesso definidas
 
-**Think of it as**: Assembling your dream team, except they're AI specialists who never sleep, never complain, and always deliver.
+**Pense nisto como**: Montar o time dos seus sonhos, só que formado por especialistas em IA que nunca dormem, nunca reclamam e sempre entregam.
 
 ---
 
-## ⚡ Quick Start
+## ⚡ Início Rápido
 
-### Option 1: Install the app (Recommended)
+### Opção 1: Instalar o aplicativo (Recomendado)
 
-The fastest way in — no clone, no terminal. [**Agency Agents**](https://agencyagents.app) is a native desktop app (macOS · Linux · Windows) that browses the whole roster and installs agents into Claude Code, Cursor, Codex, Gemini CLI, OpenCode, Qwen, and Osaurus for you, then keeps them up to date.
+A maneira mais rápida — sem clone, sem terminal. O [**Agency Agents**](https://agencyagents.app) é um aplicativo desktop nativo (macOS · Linux · Windows) que navega por todo o catálogo e instala os agentes no Claude Code, Cursor, Codex, Gemini CLI, OpenCode, Qwen e Osaurus para você, mantendo-os sempre atualizados.
 
-**[⬇ Download the latest release](https://github.com/msitarzewski/agency-agents-app/releases/latest)** — or on a Mac:
+**[⬇ Baixar a versão mais recente](https://github.com/msitarzewski/agency-agents-app/releases/latest)** — ou no Mac:
 
 ```bash
 brew install --cask msitarzewski/agency-agents/agency-agents
 ```
 
-Prefer the command line? The script-based options below install the same agents.
+Prefere a linha de comando? As opções baseadas em scripts abaixo instalam os mesmos agentes.
 
-### Option 2: Use with Claude Code
+### Opção 2: Usar com o Claude Code
 
 ```bash
-# Install all agents to your Claude Code directory
+# Instala todos os agentes no diretório do Claude Code
 ./scripts/install.sh --tool claude-code
 
-# Or manually copy a category if you only want one division
+# Ou copie manualmente uma categoria se desejar apenas uma divisão
 cp engineering/*.md ~/.claude/agents/
 
-# Then activate any agent in your Claude Code sessions:
-# "Hey Claude, activate Frontend Developer mode and help me build a React component"
+# Em seguida, ative qualquer agente nas suas sessões do Claude Code:
+# "Ei Claude, ative o modo Frontend Developer e me ajude a criar um componente React"
 ```
 
-### Option 3: Use as Reference
+### Opção 3: Usar como Referência
 
-Each agent file contains:
-- Identity & personality traits
-- Core mission & workflows
-- Technical deliverables with code examples
-- Success metrics & communication style
+O arquivo de cada agente contém:
+- Identidade e traços de personalidade
+- Missão principal e fluxos de trabalho
+- Entregáveis técnicos com exemplos de código
+- Métricas de sucesso e estilo de comunicação
 
-Browse the agents below and copy/adapt the ones you need!
+Navegue pelos agentes abaixo e copie/adapte os que precisar!
 
-### Option 4: Use with Other Tools (GitHub Copilot, Antigravity, Gemini CLI, OpenCode, OpenClaw, Cursor, Aider, Windsurf, Kimi Code, Codex, Osaurus, Hermes, Mistral Vibe)
+### Opção 4: Usar com Outras Ferramentas (GitHub Copilot, Antigravity, Gemini CLI, OpenCode, OpenClaw, Cursor, Aider, Windsurf, Kimi Code, Codex, Osaurus, Hermes, Mistral Vibe)
 
 ```bash
-# Step 1 -- generate integration files for all supported tools
+# Passo 1 -- gerar arquivos de integração para todas as ferramentas suportadas
 ./scripts/convert.sh
 
-# Step 2 -- install interactively (auto-detects what you have installed)
+# Passo 2 -- instalar interativamente (detecta automaticamente o que você tem instalado)
 ./scripts/install.sh
 
-# Or target a specific tool directly
+# Ou direcione para uma ferramenta específica diretamente
 ./scripts/install.sh --tool antigravity
 ./scripts/install.sh --tool gemini-cli
 ./scripts/install.sh --tool opencode
@@ -91,668 +95,668 @@ Browse the agents below and copy/adapt the ones you need!
 ./scripts/install.sh --tool vibe
 ```
 
-**Install only the teams you need** (not everyone wants every division):
+**Instale apenas os times necessários** (nem todo mundo precisa de todas as divisões):
 
 ```bash
-./scripts/install.sh                                    # interactive wizard: pick tools + teams
+./scripts/install.sh                                    # assistente interativo: escolha ferramentas + times
 ./scripts/install.sh --tool claude-code --division engineering,security
 ./scripts/install.sh --tool cursor --agent frontend-developer,ui-designer
-./scripts/install.sh --list teams                       # see every team + agent count
+./scripts/install.sh --list teams                       # ver todos os times + contagem de agentes
 ./scripts/install.sh --tool opencode --division engineering --dry-run
 ```
 
-> **OpenCode note:** OpenCode's runtime currently registers only ~119 agents and silently drops the rest ([upstream bug](https://github.com/anomalyco/opencode/issues/27988)). Installing a subset with `--division` keeps you under that limit. The installer warns you when a selection would exceed it.
+> **Nota para OpenCode:** O runtime do OpenCode atualmente registra apenas ~119 agentes e descarta silenciosamente o restante ([bug upstream](https://github.com/anomalyco/opencode/issues/27988)). Instalar um subconjunto com `--division` mantém você abaixo desse limite. O instalador avisará caso a seleção ultrapasse o valor.
 
-See the [Multi-Tool Integrations](#-multi-tool-integrations) section below for full details.
+Veja a seção [Integrações Multi-Ferramenta](#-integrações-multi-ferramenta) abaixo para mais detalhes.
 
 ---
 
-## 🎨 The Agency Roster
+## 🎨 O Catálogo de Agentes
 
-### 💻 Engineering Division
+### 💻 Divisão de Engenharia
 
-Building the future, one commit at a time.
+Construindo o futuro, um commit por vez.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🎨 [Frontend Developer](engineering/engineering-frontend-developer.md) | React/Vue/Angular, UI implementation, performance | Modern web apps, pixel-perfect UIs, Core Web Vitals optimization |
-| 🏗️ [Backend Architect](engineering/engineering-backend-architect.md) | API design, database architecture, scalability | Server-side systems, microservices, cloud infrastructure |
-| 📱 [Mobile App Builder](engineering/engineering-mobile-app-builder.md) | iOS/Android, React Native, Flutter | Native and cross-platform mobile applications |
-| 🤖 [AI Engineer](engineering/engineering-ai-engineer.md) | ML models, deployment, AI integration | Machine learning features, data pipelines, AI-powered apps |
-| 🚀 [DevOps Automator](engineering/engineering-devops-automator.md) | CI/CD, infrastructure automation, cloud ops | Pipeline development, deployment automation, monitoring |
-| 🌐 [Network Engineer](engineering/engineering-network-engineer.md) | Cisco IOS/IOS-XE, Juniper Junos, Palo Alto PAN-OS | Router/switch/firewall configuration, BGP/OSPF, ACLs, show-output troubleshooting |
-| ⚡ [Rapid Prototyper](engineering/engineering-rapid-prototyper.md) | Fast POC development, MVPs | Quick proof-of-concepts, hackathon projects, fast iteration |
-| 💎 [Senior Developer](engineering/engineering-senior-developer.md) | Laravel/Livewire, advanced patterns | Complex implementations, architecture decisions |
-| 🔧 [Filament Optimization Specialist](engineering/engineering-filament-optimization-specialist.md) | Filament PHP admin UX, structural form redesign, resource optimization | Restructuring Filament resources/forms/tables for faster, cleaner admin workflows |
-| ⚡ [Autonomous Optimization Architect](engineering/engineering-autonomous-optimization-architect.md) | LLM routing, cost optimization, shadow testing | Autonomous systems needing intelligent API selection and cost guardrails |
-| 🔩 [Embedded Firmware Engineer](engineering/engineering-embedded-firmware-engineer.md) | Bare-metal, RTOS, ESP32/STM32/Nordic firmware | Production-grade embedded systems and IoT devices |
-| 🚨 [Incident Response Commander](engineering/engineering-incident-response-commander.md) | Incident management, post-mortems, on-call | Managing production incidents and building incident readiness |
-| ⛓️ [Solidity Smart Contract Engineer](engineering/engineering-solidity-smart-contract-engineer.md) | EVM contracts, gas optimization, DeFi | Secure, gas-optimized smart contracts and DeFi protocols |
-| 🧭 [Codebase Onboarding Engineer](engineering/engineering-codebase-onboarding-engineer.md) | Fast developer onboarding, read-only codebase exploration, factual explanation | Helping new developers understand unfamiliar repos quickly by reading the code, tracing code paths, and stating facts about structure and behavior |
-| 📚 [Technical Writer](engineering/engineering-technical-writer.md) | Developer docs, API reference, tutorials | Clear, accurate technical documentation |
-| 💬 [WeChat Mini Program Developer](engineering/engineering-wechat-mini-program-developer.md) | WeChat ecosystem, Mini Programs, payment integration | Building performant apps for the WeChat ecosystem |
-| 👁️ [Code Reviewer](engineering/engineering-code-reviewer.md) | Constructive code review, security, maintainability | PR reviews, code quality gates, mentoring through review |
-| 🗄️ [Database Optimizer](engineering/engineering-database-optimizer.md) | Schema design, query optimization, indexing strategies | PostgreSQL/MySQL tuning, slow query debugging, migration planning |
-| 🌿 [Git Workflow Master](engineering/engineering-git-workflow-master.md) | Branching strategies, conventional commits, advanced Git | Git workflow design, history cleanup, CI-friendly branch management |
-| 🏛️ [Software Architect](engineering/engineering-software-architect.md) | System design, DDD, architectural patterns, trade-off analysis | Architecture decisions, domain modeling, system evolution strategy |
-| 🛡️ [SRE](engineering/engineering-sre.md) | SLOs, error budgets, observability, chaos engineering | Production reliability, toil reduction, capacity planning |
-| 🧬 [AI Data Remediation Engineer](engineering/engineering-ai-data-remediation-engineer.md) | Self-healing pipelines, air-gapped SLMs, semantic clustering | Fixing broken data at scale with zero data loss |
-| 🔧 [Data Engineer](engineering/engineering-data-engineer.md) | Data pipelines, lakehouse architecture, ETL/ELT | Building reliable data infrastructure and warehousing |
-| 🔗 [Feishu Integration Developer](engineering/engineering-feishu-integration-developer.md) | Feishu/Lark Open Platform, bots, workflows | Building integrations for the Feishu ecosystem |
-| 🧱 [CMS Developer](engineering/engineering-cms-developer.md) | WordPress & Drupal themes, plugins/modules, content architecture | Code-first CMS implementation and customization |
-| 📧 [Email Intelligence Engineer](engineering/engineering-email-intelligence-engineer.md) | Email parsing, MIME extraction, structured data for AI agents | Turning raw email threads into reasoning-ready context |
-| 🎙️ [Voice AI Integration Engineer](engineering/engineering-voice-ai-integration-engineer.md) | Speech-to-text pipelines, Whisper, ASR, speaker diarization | End-to-end transcription pipelines, audio preprocessing, structured transcript delivery |
-| 🖧 [IT Service Manager](engineering/engineering-it-service-manager.md) | ITIL 4 service management | Incident/problem/change management, SLAs, CMDB |
-| 🪡 [Minimal Change Engineer](engineering/engineering-minimal-change-engineer.md) | Minimum-viable diffs | Fixing only what's asked, no scope creep |
-| 📜 [OrgScript Engineer](engineering/engineering-orgscript-engineer.md) | OrgScript grammar & AST validation | Designing/parsing OrgScript business-logic definitions |
-| 🧬 [Prompt Engineer](engineering/engineering-prompt-engineer.md) | LLM prompt design & optimization | Turning vague instructions into reliable AI behaviors |
-| 🕸️ [Multi-Agent Systems Architect](engineering/engineering-multi-agent-systems-architect.md) | Multi-agent pipeline design & governance | Topology, context, trust, failure recovery for agent systems |
-| 🛒 [Drupal Shopping Cart Engineer](engineering/engineering-drupal-shopping-cart.md) | Drupal Commerce storefronts | Catalog, payments, checkout, orders on Drupal 10/11 |
-| 🛍️ [WordPress Shopping Cart Engineer](engineering/engineering-wordpress-shopping-cart.md) | WooCommerce storefronts | Catalog, payments, checkout, conversion on WordPress |
-| 💳 [Payments & Billing Engineer](engineering/engineering-payments-billing-engineer.md) | PSP integration, idempotent payment flows, subscription billing | Stripe/Adyen/Braintree integrations, webhook processing, dunning, reconciliation |
-| 🌍 [Internationalization Engineer](engineering/engineering-i18n-engineer.md) | ICU MessageFormat, RTL/bidi layouts, CLDR formatting, pseudo-localization | Making apps translation-ready, locale-aware formatting, RTL support, i18n audits |
-| ⚡ [Drupal Performance Engineer](engineering/engineering-drupal-performance.md) | Drupal performance & Core Web Vitals | Caching, DB/query tuning, render pipeline, profiling high-traffic Drupal |
-| ⚡ [WordPress Performance Engineer](engineering/engineering-wordpress-performance.md) | WordPress performance & Core Web Vitals | Caching, query/asset optimization, plugin tuning, profiling high-traffic WP |
-| ♿ [Section 508 Accessibility Specialist](engineering/engineering-section-508-specialist.md) | US federal 508 / WCAG accessibility | ARIA, screen-reader testing, VPAT/ACR authoring, remediation |
-| 🏛️ [USWDS Developer](engineering/engineering-uswds-developer.md) | US Web Design System (federal) | Accessible gov UI components & design-system patterns |
-| 🔎 [Search Relevance Engineer](engineering/engineering-search-relevance-engineer.md) | Search ranking & relevance | Query understanding, embeddings, ranking/eval, relevance tuning |
-| 🔐 [Identity & Access Engineer](engineering/engineering-identity-access-engineer.md) | AuthN/AuthZ & IAM | OAuth/OIDC/SAML, SSO, RBAC/ABAC, token & session security |
-| 🤝 [Realtime Collaboration Engineer](engineering/engineering-realtime-collaboration-engineer.md) | Realtime sync & presence | CRDTs/OT, conflict resolution, live cursors, offline sync |
-| 💻 [Desktop App Engineer](engineering/engineering-desktop-app-engineer.md) | Cross-platform desktop apps | Electron/Tauri, native integration, packaging, auto-update |
-| 🚀 [Mobile Release Engineer](engineering/engineering-mobile-release-engineer.md) | Mobile release & CI/CD | App Store/Play submission, signing, staged rollout, crash triage |
-| 🎬 [Video Streaming Engineer](engineering/engineering-video-streaming-engineer.md) | Video streaming & transcoding | HLS/DASH, ABR, codecs, CDN delivery, low-latency streaming |
-| 💰 [FinOps Engineer](engineering/engineering-finops-engineer.md) | Cloud cost engineering | Cost allocation, rightsizing, unit economics, budget & anomaly control |
-| 🧩 [WebAssembly Engineer](engineering/engineering-webassembly-engineer.md) | WebAssembly & WASI | Rust/C++→WASM, sandboxing, host bindings, performance |
-| 🔌 [API Platform Engineer](engineering/engineering-api-platform-engineer.md) | API gateways & platforms | Gateway design, versioning, rate limiting, developer portals |
-| 🛟 [Database Reliability Engineer](engineering/engineering-database-reliability-engineer.md) | Database reliability (DBRE) | HA/replication, automated failover, PITR backups, zero-downtime ops |
-| 🛠️ [Developer Tooling Engineer](engineering/engineering-developer-tooling-engineer.md) | CLI & developer tooling | Command-line tools, internal DX, build/dev workflows |
-| 📡 [IoT Fleet Engineer](engineering/engineering-iot-fleet-engineer.md) | IoT & edge fleet | Device provisioning/identity, MQTT telemetry, OTA updates |
-| 🔍 [RAG Pipeline Engineer](engineering/engineering-rag-pipeline-engineer.md) | Production RAG pipelines | Chunking, retrieval quality, hybrid search, re-ranking, eval-driven iteration |
-| 🗄️ [GaussDB Expert Engineer](engineering/engineering-gaussdb-expert.md) | Huawei GaussDB OLTP | Enterprise OLTP performance, HA, and migration on Huawei's GaussDB |
-| 🕵️ [Privacy Engineer](engineering/engineering-privacy-engineer.md) | PII discovery, data minimization, consent enforcement, DSAR/deletion pipelines | Implementing privacy in code, right-to-be-forgotten across services, retention automation |
-| 🦀 [Rust Refactoring Specialist](engineering/engineering-rust-refactoring-specialist.md) | Behavior-aware Rust refactoring | Reforming crates/traits/modules with evidence-based, behavior-preserving changes |
-| 🧪 [LLM Post-Training Engineer](engineering/engineering-llm-post-training-engineer.md) | Post-training stack (SFT/DPO/GRPO/RLVR) | Evidence-based experiment gating, checkpoint integrity, failure classification |
-| 📈 [Data Visualization Engineer](engineering/engineering-data-visualization-engineer.md) | Perceptually honest data viz | Chart-type selection, colorblind-safe palettes, performant D3/Vega rendering |
-| 🧠 [Knowledge Graph Engineer](engineering/engineering-knowledge-graph-engineer.md) | Knowledge graphs, entity-relationship extraction, graph-enhanced RAG | Structuring documents into queryable Neo4j graphs with LangGraph; provenance, contradiction tracking, subgraph retrieval |
+| 🎨 [Frontend Developer](engineering/engineering-frontend-developer.md) | React/Vue/Angular, implementação de UI, performance | Aplicações web modernas, interfaces pixel-perfect, otimização de Core Web Vitals |
+| 🏗️ [Backend Architect](engineering/engineering-backend-architect.md) | Design de APIs, arquitetura de banco de dados, escalabilidade | Sistemas server-side, microsserviços, infraestrutura em nuvem |
+| 📱 [Mobile App Builder](engineering/engineering-mobile-app-builder.md) | iOS/Android, React Native, Flutter | Aplicativos móveis nativos e multiplataforma |
+| 🤖 [AI Engineer](engineering/engineering-ai-engineer.md) | Modelos de ML, deploy, integração de IA | Recursos de machine learning, pipelines de dados, apps potencializados por IA |
+| 🚀 [DevOps Automator](engineering/engineering-devops-automator.md) | CI/CD, automação de infraestrutura, cloud ops | Desenvolvimento de pipelines, automação de deploy, monitoramento |
+| 🌐 [Network Engineer](engineering/engineering-network-engineer.md) | Cisco IOS/IOS-XE, Juniper Junos, Palo Alto PAN-OS | Configuração de roteadores/switches/firewalls, BGP/OSPF, ACLs, troubleshooting de saídas de comandos |
+| ⚡ [Rapid Prototyper](engineering/engineering-rapid-prototyper.md) | Desenvolvimento rápido de POCs, MVPs | Provas de conceito ágeis, projetos de hackathon, iteração rápida |
+| 💎 [Senior Developer](engineering/engineering-senior-developer.md) | Laravel/Livewire, padrões avançados | Implementações complexas, decisões de arquitetura |
+| 🔧 [Filament Optimization Specialist](engineering/engineering-filament-optimization-specialist.md) | UX do admin Filament PHP, redesign estrutural de formulários, otimização de recursos | Reestruturação de recursos/formulários/tabelas do Filament para fluxos de admin mais rápidos e limpos |
+| ⚡ [Autonomous Optimization Architect](engineering/engineering-autonomous-optimization-architect.md) | Roteamento de LLMs, otimização de custos, testes sombra (shadow testing) | Sistemas autônomos que exigem seleção inteligente de APIs e controle de custos |
+| 🔩 [Embedded Firmware Engineer](engineering/engineering-embedded-firmware-engineer.md) | Bare-metal, RTOS, firmware para ESP32/STM32/Nordic | Sistemas embarcados de nível de produção e dispositivos IoT |
+| 🚨 [Incident Response Commander](engineering/engineering-incident-response-commander.md) | Gestão de incidentes, post-mortems, plantão (on-call) | Gerenciamento de incidentes em produção e criação de prontidão operacional |
+| ⛓️ [Solidity Smart Contract Engineer](engineering/engineering-solidity-smart-contract-engineer.md) | Contratos EVM, otimização de gas, DeFi | Smart contracts seguros e otimizados para gas e protocolos DeFi |
+| 🧭 [Codebase Onboarding Engineer](engineering/engineering-codebase-onboarding-engineer.md) | Onboarding rápido de desenvolvedores, exploração somente-leitura de repositórios, explicação factual | Ajudar novos desenvolvedores a entender repositórios desconhecidos rapidamente lendo o código, rastreando caminhos e explicando fatos sobre estrutura e comportamento |
+| 📚 [Technical Writer](engineering/engineering-technical-writer.md) | Documentação para devs, referências de API, tutoriais | Documentação técnica clara e precisa |
+| 💬 [WeChat Mini Program Developer](engineering/engineering-wechat-mini-program-developer.md) | Ecossistema WeChat, Mini Programs, integração de pagamentos | Criação de aplicativos performáticos para o ecossistema WeChat |
+| 👁️ [Code Reviewer](engineering/engineering-code-reviewer.md) | Revisão construtiva de código, segurança, manutenibilidade | Revisões de PR, portões de qualidade de código, mentoria através de reviews |
+| 🗄️ [Database Optimizer](engineering/engineering-database-optimizer.md) | Design de schema, otimização de queries, estratégias de indexação | Ajuste de PostgreSQL/MySQL, depuração de queries lentas, planejamento de migração |
+| 🌿 [Git Workflow Master](engineering/engineering-git-workflow-master.md) | Estratégias de ramificação (branching), conventional commits, Git avançado | Design de fluxos Git, limpeza de histórico, gestão de branches amigável ao CI |
+| 🏛️ [Software Architect](engineering/engineering-software-architect.md) | Design de sistemas, DDD, padrões arquiteturais, análise de trade-offs | Decisões arquiteturais, modelagem de domínio, estratégia de evolução de sistemas |
+| 🛡️ [SRE](engineering/engineering-sre.md) | SLOs, orçamentos de erro (error budgets), observabilidade, engenharia de caos | Confiabilidade de produção, redução de trabalho repetitivo (toil), planejamento de capacidade |
+| 🧬 [AI Data Remediation Engineer](engineering/engineering-ai-data-remediation-engineer.md) | Pipelines auto-regenerativos, SLMs air-gapped, clustering semântico | Correção de dados corrompidos em escala com zero perda de dados |
+| 🔧 [Data Engineer](engineering/engineering-data-engineer.md) | Pipelines de dados, arquitetura lakehouse, ETL/ELT | Construção de infraestrutura de dados confiável e data warehousing |
+| 🔗 [Feishu Integration Developer](engineering/engineering-feishu-integration-developer.md) | Plataforma aberta Feishu/Lark, bots, fluxos de trabalho | Construção de integrações para o ecossistema Feishu |
+| 🧱 [CMS Developer](engineering/engineering-cms-developer.md) | Temas WordPress e Drupal, plugins/módulos, arquitetura de conteúdo | Implementação e customização de CMS code-first |
+| 📧 [Email Intelligence Engineer](engineering/engineering-email-intelligence-engineer.md) | Parsing de e-mails, extração MIME, dados estruturados para agentes de IA | Transformação de threads de e-mail brutas em contexto pronto para raciocínio |
+| 🎙️ [Voice AI Integration Engineer](engineering/engineering-voice-ai-integration-engineer.md) | Pipelines speech-to-text, Whisper, ASR, diarização de locutores | Pipelines de transcrição ponta a ponta, pré-processamento de áudio, entrega de transcrições estruturadas |
+| 🖧 [IT Service Manager](engineering/engineering-it-service-manager.md) | Gerenciamento de serviços ITIL 4 | Gerenciamento de incidentes/problemas/mudanças, SLAs, CMDB |
+| 🪡 [Minimal Change Engineer](engineering/engineering-minimal-change-engineer.md) | Diffs mínimos viáveis | Corrigir estritamente o que foi solicitado, sem escopo inflado |
+| 📜 [OrgScript Engineer](engineering/engineering-orgscript-engineer.md) | Gramática OrgScript e validação de AST | Criação e parsing de definições de lógica de negócios em OrgScript |
+| 🧬 [Prompt Engineer](engineering/engineering-prompt-engineer.md) | Design e otimização de prompts para LLM | Transformação de instruções vagas em comportamentos confiáveis de IA |
+| 🕸️ [Multi-Agent Systems Architect](engineering/engineering-multi-agent-systems-architect.md) | Design e governança de pipelines multi-agente | Topologia, contexto, confiança e recuperação de falhas para sistemas de agentes |
+| 🛒 [Drupal Shopping Cart Engineer](engineering/engineering-drupal-shopping-cart.md) | Lojas virtuais Drupal Commerce | Catálogo, pagamentos, checkout e pedidos no Drupal 10/11 |
+| 🛍️ [WordPress Shopping Cart Engineer](engineering/engineering-wordpress-shopping-cart.md) | Lojas virtuais WooCommerce | Catálogo, pagamentos, checkout e conversão no WordPress |
+| 💳 [Payments & Billing Engineer](engineering/engineering-payments-billing-engineer.md) | Integração de PSPs, fluxos de pagamento idempotentes, cobrança recorrente | Integrações com Stripe/Adyen/Braintree, processamento de webhooks, régua de cobrança (dunning), conciliação |
+| 🌍 [Internationalization Engineer](engineering/engineering-i18n-engineer.md) | ICU MessageFormat, layouts RTL/bidirecionais, formatação CLDR, pseudo-localização | Preparação de apps para tradução, formatação sensível a localidade, suporte a RTL, auditorias de i18n |
+| ⚡ [Drupal Performance Engineer](engineering/engineering-drupal-performance.md) | Performance no Drupal e Core Web Vitals | Caching, otimização de DB/queries, pipeline de renderização, profiling em sites Drupal de alto tráfego |
+| ⚡ [WordPress Performance Engineer](engineering/engineering-wordpress-performance.md) | Performance no WordPress e Core Web Vitals | Caching, otimização de queries/assets, ajuste fino de plugins, profiling em sites WP de alto tráfego |
+| ♿ [Section 508 Accessibility Specialist](engineering/engineering-section-508-specialist.md) | Acessibilidade federal dos EUA (Section 508 / WCAG) | ARIA, testes com leitores de tela, criação de VPAT/ACR, remediação de acessibilidade |
+| 🏛️ [USWDS Developer](engineering/engineering-uswds-developer.md) | Sistema de Design Web dos EUA (USWDS) | Componentes de interface acessíveis para governos e padrões de design system |
+| 🔎 [Search Relevance Engineer](engineering/engineering-search-relevance-engineer.md) | Ranqueamento e relevância de busca | Compreensão de consultas, embeddings, ranking/avaliação, ajuste fino de relevância |
+| 🔐 [Identity & Access Engineer](engineering/engineering-identity-access-engineer.md) | AuthN/AuthZ e IAM | OAuth/OIDC/SAML, SSO, RBAC/ABAC, segurança de tokens e sessões |
+| 🤝 [Realtime Collaboration Engineer](engineering/engineering-realtime-collaboration-engineer.md) | Sincronização e presença em tempo real | CRDTs/OT, resolução de conflitos, cursores ao vivo, sincronização offline |
+| 💻 [Desktop App Engineer](engineering/engineering-desktop-app-engineer.md) | Aplicativos desktop multiplataforma | Electron/Tauri, integração nativa, empacotamento, atualização automática |
+| 🚀 [Mobile Release Engineer](engineering/engineering-mobile-release-engineer.md) | Release mobile e CI/CD | Submissão na App Store/Play Store, assinatura digital, rollout em etapas, triagem de falhas (crashes) |
+| 🎬 [Video Streaming Engineer](engineering/engineering-video-streaming-engineer.md) | Streaming de vídeo e transcodificação | HLS/DASH, ABR, codecs, entrega via CDN, streaming de baixa latência |
+| 💰 [FinOps Engineer](engineering/engineering-finops-engineer.md) | Engenharia de custos em nuvem | Alocação de custos, rightsizing, unit economics, controle de orçamento e anomalias |
+| 🧩 [WebAssembly Engineer](engineering/engineering-webassembly-engineer.md) | WebAssembly e WASI | Rust/C++ para WASM, sandboxing, bindings com o host, performance |
+| 🔌 [API Platform Engineer](engineering/engineering-api-platform-engineer.md) | Gateways e plataformas de API | Design de gateways, versionamento, rate limiting, portais para desenvolvedores |
+| 🛟 [Database Reliability Engineer](engineering/engineering-database-reliability-engineer.md) | Confiabilidade de banco de dados (DBRE) | Alta disponibilidade/replicação, failover automatizado, backups PITR, operações com downtime zero |
+| 🛠️ [Developer Tooling Engineer](engineering/engineering-developer-tooling-engineer.md) | CLI e ferramentas para desenvolvedores | Ferramentas de linha de comando, DX interna, fluxos de build e desenvolvimento |
+| 📡 [IoT Fleet Engineer](engineering/engineering-iot-fleet-engineer.md) | Frotas IoT e edge computing | Provisionamento/identidade de dispositivos, telemetria MQTT, atualizações OTA |
+| 🔍 [RAG Pipeline Engineer](engineering/engineering-rag-pipeline-engineer.md) | Pipelines RAG de produção | Chunking, qualidade de recuperação, busca híbrida, re-ranking, iteração orientada a avaliação |
+| 🗄️ [GaussDB Expert Engineer](engineering/engineering-gaussdb-expert.md) | Huawei GaussDB OLTP | Performance empresarial OLTP, alta disponibilidade e migração no Huawei GaussDB |
+| 🕵️ [Privacy Engineer](engineering/engineering-privacy-engineer.md) | Descoberta de PII, minimização de dados, consentimento, pipelines de DSAR/deleção | Implementação de privacidade em código, direito ao esquecimento entre serviços, automação de retenção |
+| 🦀 [Rust Refactoring Specialist](engineering/engineering-rust-refactoring-specialist.md) | Refatoração de Rust com preservação de comportamento | Reestruturação de crates/traits/módulos com alterações baseadas em evidências que preservam o comportamento |
+| 🧪 [LLM Post-Training Engineer](engineering/engineering-llm-post-training-engineer.md) | Stack de pós-treinamento (SFT/DPO/GRPO/RLVR) | Validação de experimentos por evidências, integridade de checkpoints, classificação de falhas |
+| 📈 [Data Visualization Engineer](engineering/engineering-data-visualization-engineer.md) | Visualização de dados perceptual e honesta | Seleção de tipos de gráfico, paletas acessíveis para daltônicos, renderização performática em D3/Vega |
+| 🧠 [Knowledge Graph Engineer](engineering/engineering-knowledge-graph-engineer.md) | Grafos de conhecimento, extração entidade-relacionamento, Graph RAG | Estruturação de documentos em grafos Neo4j consultáveis com LangGraph; proveniência, rastreamento de contradições, recuperação de subgrafos |
 
-### 🎨 Design Division
+### 🎨 Divisão de Design
 
-Making it beautiful, usable, and delightful.
+Tornando tudo bonito, utilizável e encantador.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🎯 [UI Designer](design/design-ui-designer.md) | Visual design, component libraries, design systems | Interface creation, brand consistency, component design |
-| 🔍 [UX Researcher](design/design-ux-researcher.md) | User testing, behavior analysis, research | Understanding users, usability testing, design insights |
-| 🏛️ [UX Architect](design/design-ux-architect.md) | Technical architecture, CSS systems, implementation | Developer-friendly foundations, implementation guidance |
-| 🎭 [Brand Guardian](design/design-brand-guardian.md) | Brand identity, consistency, positioning | Brand strategy, identity development, guidelines |
-| 📖 [Visual Storyteller](design/design-visual-storyteller.md) | Visual narratives, multimedia content | Compelling visual stories, brand storytelling |
-| ✨ [Whimsy Injector](design/design-whimsy-injector.md) | Personality, delight, playful interactions | Adding joy, micro-interactions, Easter eggs, brand personality |
-| 📷 [Image Prompt Engineer](design/design-image-prompt-engineer.md) | AI image generation prompts, photography | Photography prompts for Midjourney, DALL-E, Stable Diffusion |
-| 🌈 [Inclusive Visuals Specialist](design/design-inclusive-visuals-specialist.md) | Representation, bias mitigation, authentic imagery | Generating culturally accurate AI images and video |
-| 🎭 [Persona Walkthrough Specialist](design/design-persona-walkthrough.md) | Persona-driven cognitive walkthroughs | Simulating user reactions and friction at each scroll position |
-| 🧱 [UI Finish-Gate Reviewer](design/design-ui-finish-gate-reviewer.md) | Anti-generic UI finish gate | Catching interchangeable UI before ship via evidence + a written design contract |
+| 🎯 [UI Designer](design/design-ui-designer.md) | Design visual, bibliotecas de componentes, design systems | Criação de interfaces, consistência de marca, design de componentes |
+| 🔍 [UX Researcher](design/design-ux-researcher.md) | Testes com usuários, análise de comportamento, pesquisa | Compreensão dos usuários, testes de usabilidade, insights de design |
+| 🏛️ [UX Architect](design/design-ux-architect.md) | Arquitetura técnica, sistemas CSS, implementação | Fundações amigáveis aos desenvolvedores, orientações de implementação |
+| 🎭 [Brand Guardian](design/design-brand-guardian.md) | Identidade de marca, consistência, posicionamento | Estratégia de marca, desenvolvimento de identidade, manuais de marca |
+| 📖 [Visual Storyteller](design/design-visual-storyteller.md) | Narrativas visuais, conteúdo multimídia | Histórias visuais envolventes, storytelling de marca |
+| ✨ [Whimsy Injector](design/design-whimsy-injector.md) | Personalidade, encantamento, interações divertidas | Adicionar alegria, microinterações, easter eggs e personalidade à marca |
+| 📷 [Image Prompt Engineer](design/design-image-prompt-engineer.md) | Prompts para geração de imagem por IA, fotografia | Prompts fotográficos para Midjourney, DALL-E, Stable Diffusion |
+| 🌈 [Inclusive Visuals Specialist](design/design-inclusive-visuals-specialist.md) | Representatividade, mitigação de vieses, imagens autênticas | Geração de imagens e vídeos por IA culturalmente precisos |
+| 🎭 [Persona Walkthrough Specialist](design/design-persona-walkthrough.md) | Walkthroughs cognitivos orientados por personas | Simulação de reações e atritos dos usuários a cada rolagem de página |
+| 🧱 [UI Finish-Gate Reviewer](design/design-ui-finish-gate-reviewer.md) | Portão de revisão contra interfaces genéricas | Evitar UIs genéricas antes do lançamento usando evidências e um contrato de design por escrito |
 
-### 💰 Paid Media Division
+### 💰 Divisão de Mídia Paga
 
-Turning ad spend into measurable business outcomes.
+Transformando investimento em anúncios em resultados comerciais mensuráveis.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 | --- | --- | --- |
-| 💰 [PPC Campaign Strategist](paid-media/paid-media-ppc-strategist.md) | Google/Microsoft/Amazon Ads, account architecture, bidding | Account buildouts, budget allocation, scaling, performance diagnosis |
-| 🔍 [Search Query Analyst](paid-media/paid-media-search-query-analyst.md) | Search term analysis, negative keywords, intent mapping | Query audits, wasted spend elimination, keyword discovery |
-| 📋 [Paid Media Auditor](paid-media/paid-media-auditor.md) | 200+ point account audits, competitive analysis | Account takeovers, quarterly reviews, competitive pitches |
-| 📡 [Tracking & Measurement Specialist](paid-media/paid-media-tracking-specialist.md) | GTM, GA4, conversion tracking, CAPI | New implementations, tracking audits, platform migrations |
-| ✍️ [Ad Creative Strategist](paid-media/paid-media-creative-strategist.md) | RSA copy, Meta creative, Performance Max assets | Creative launches, testing programs, ad fatigue refreshes |
-| 📺 [Programmatic & Display Buyer](paid-media/paid-media-programmatic-buyer.md) | GDN, DSPs, partner media, ABM display | Display planning, partner outreach, ABM programs |
-| 📱 [Paid Social Strategist](paid-media/paid-media-paid-social-strategist.md) | Meta, LinkedIn, TikTok, cross-platform social | Social ad programs, platform selection, audience strategy |
+| 💰 [PPC Campaign Strategist](paid-media/paid-media-ppc-strategist.md) | Google/Microsoft/Amazon Ads, arquitetura de contas, lances (bidding) | Estruturação de contas, alocação de orçamento, escala, diagnóstico de desempenho |
+| 🔍 [Search Query Analyst](paid-media/paid-media-search-query-analyst.md) | Análise de termos de busca, palavras-chave negativas, mapeamento de intenção | Auditorias de consultas, eliminação de verba desperdiçada, descoberta de palavras-chave |
+| 📋 [Paid Media Auditor](paid-media/paid-media-auditor.md) | Auditoria de contas com mais de 200 itens, análise competitiva | Assunção de novas contas, revisões trimestrais, apresentações comerciais (pitches) |
+| 📡 [Tracking & Measurement Specialist](paid-media/paid-media-tracking-specialist.md) | GTM, GA4, rastreamento de conversão, CAPI | Novas implementações, auditorias de rastreamento, migrações de plataforma |
+| ✍️ [Ad Creative Strategist](paid-media/paid-media-creative-strategist.md) | Textos para anúncios responsivos (RSA), criativos Meta, assets Performance Max | Lançamento de criativos, programas de testes, renovação de anúncios saturados |
+| 📺 [Programmatic & Display Buyer](paid-media/paid-media-programmatic-buyer.md) | GDN, DSPs, mídia parceira, display para ABM | Planejamento de display, prospecção de parceiros, programas de ABM |
+| 📱 [Paid Social Strategist](paid-media/paid-media-paid-social-strategist.md) | Meta, LinkedIn, TikTok, social multiplataforma | Programas de anúncios sociais, seleção de plataformas, estratégia de audiência |
 
-### 💼 Sales Division
+### 💼 Divisão de Vendas
 
-Turning pipeline into revenue through craft, not CRM busywork.
+Transformando pipeline em receita através de técnica, e não de trabalho burocrático no CRM.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🎯 [Outbound Strategist](sales/sales-outbound-strategist.md) | Signal-based prospecting, multi-channel sequences, ICP targeting | Building pipeline through research-driven outreach, not volume |
-| 🔍 [Discovery Coach](sales/sales-discovery-coach.md) | SPIN, Gap Selling, Sandler — question design and call structure | Preparing for discovery calls, qualifying opportunities, coaching reps |
-| ♟️ [Deal Strategist](sales/sales-deal-strategist.md) | MEDDPICC qualification, competitive positioning, win planning | Scoring deals, exposing pipeline risk, building win strategies |
-| 🛠️ [Sales Engineer](sales/sales-engineer.md) | Technical demos, POC scoping, competitive battlecards | Pre-sales technical wins, demo prep, competitive positioning |
-| 🏹 [Proposal Strategist](sales/sales-proposal-strategist.md) | RFP response, win themes, narrative structure | Writing proposals that persuade, not just comply |
-| 📊 [Pipeline Analyst](sales/sales-pipeline-analyst.md) | Forecasting, pipeline health, deal velocity, RevOps | Pipeline reviews, forecast accuracy, revenue operations |
-| 🗺️ [Account Strategist](sales/sales-account-strategist.md) | Land-and-expand, QBRs, stakeholder mapping | Post-sale expansion, account planning, NRR growth |
-| 🏋️ [Sales Coach](sales/sales-coach.md) | Rep development, call coaching, pipeline review facilitation | Making every rep and every deal better through structured coaching |
-| 🎯 [Sales Outreach](specialized/sales-outreach.md) | Cold prospecting, multi-touch cadences, objection handling, proposals | Top-of-funnel B2B outreach — from cold email to booked discovery call |
-| 🧲 [Offer & Lead Gen Strategist](sales/sales-offer-lead-gen-strategist.md) | Offers & lead magnets | Top-of-funnel offer construction and lead gen |
+| 🎯 [Outbound Strategist](sales/sales-outbound-strategist.md) | Prospecção baseada em sinais, cadências multicanal, segmentação por ICP | Criação de pipeline por meio de prospecção orientada por pesquisa, não por volume |
+| 🔍 [Discovery Coach](sales/sales-discovery-coach.md) | SPIN, Gap Selling, Sandler — estruturação de ligações e elaboração de perguntas | Preparação para chamadas de descoberta, qualificação de oportunidades, coaching de vendedores |
+| ♟️ [Deal Strategist](sales/sales-deal-strategist.md) | Qualificação MEDDPICC, posicionamento competitivo, planos de vitória | Pontuação de oportunidades, exposição de riscos no pipeline, montagem de planos para fechar negócios |
+| 🛠️ [Sales Engineer](sales/sales-engineer.md) | Demonstrações técnicas, escopo de POCs, battlecards competitivos | Fechamentos técnicos pré-venda, preparação de demonstrações, posicionamento contra concorrentes |
+| 🏹 [Proposal Strategist](sales/sales-proposal-strategist.md) | Respostas a RFPs, propostas de valor vencedoras, estrutura narrativa | Redação de propostas que convencem, em vez de apenas cumprir requisitos |
+| 📊 [Pipeline Analyst](sales/sales-pipeline-analyst.md) | Previsão (forecasting), integridade do pipeline, velocidade de negócios, RevOps | Revisão de pipeline, precisão de projeções, operações de receita |
+| 🗺️ [Account Strategist](sales/sales-account-strategist.md) | Land-and-expand, QBRs, mapeamento de partes interessadas (stakeholders) | Expansão pós-venda, planejamento de contas-chave, crescimento de NRR |
+| 🏋️ [Sales Coach](sales/sales-coach.md) | Desenvolvimento de representantes, coaching em ligações, facilitação de revisões de pipeline | Melhoria contínua de representantes e negociações por meio de coaching estruturado |
+| 🎯 [Sales Outreach](specialized/sales-outreach.md) | Prospecção fria, cadências multitoque, tratamento de objeções, propostas | Prospecção B2B de topo de funil — do cold mail à primeira chamada de diagnóstico agendada |
+| 🧲 [Offer & Lead Gen Strategist](sales/sales-offer-lead-gen-strategist.md) | Ofertas e iscas digitais (lead magnets) | Construção de ofertas de topo de funil e geração de leads |
 
-### 📢 Marketing Division
+### 📢 Divisão de Marketing
 
-Growing your audience, one authentic interaction at a time.
+Crescendo seu público, uma interação autêntica de cada vez.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🚀 [Growth Hacker](marketing/marketing-growth-hacker.md) | Rapid user acquisition, viral loops, experiments | Explosive growth, user acquisition, conversion optimization |
-| 📝 [Content Creator](marketing/marketing-content-creator.md) | Multi-platform content, editorial calendars | Content strategy, copywriting, brand storytelling |
-| 🐦 [Twitter Engager](marketing/marketing-twitter-engager.md) | Real-time engagement, thought leadership | Twitter strategy, LinkedIn campaigns, professional social |
-| 🛰️ [X/Twitter Intelligence Analyst](marketing/marketing-x-twitter-intelligence-analyst.md) | Social listening, trend detection, account monitoring | Brand risk, competitor, and audience intelligence on X/Twitter |
-| 📱 [TikTok Strategist](marketing/marketing-tiktok-strategist.md) | Viral content, algorithm optimization | TikTok growth, viral content, Gen Z/Millennial audience |
-| 📸 [Instagram Curator](marketing/marketing-instagram-curator.md) | Visual storytelling, community building | Instagram strategy, aesthetic development, visual content |
-| 🤝 [Reddit Community Builder](marketing/marketing-reddit-community-builder.md) | Authentic engagement, value-driven content | Reddit strategy, community trust, authentic marketing |
-| 📱 [App Store Optimizer](marketing/marketing-app-store-optimizer.md) | ASO, conversion optimization, discoverability | App marketing, store optimization, app growth |
-| 🌐 [Social Media Strategist](marketing/marketing-social-media-strategist.md) | Cross-platform strategy, campaigns | Overall social strategy, multi-platform campaigns |
-| 📕 [Xiaohongshu Specialist](marketing/marketing-xiaohongshu-specialist.md) | Lifestyle content, trend-driven strategy | Xiaohongshu growth, aesthetic storytelling, Gen Z audience |
-| 💬 [WeChat Official Account Manager](marketing/marketing-wechat-official-account.md) | Subscriber engagement, content marketing | WeChat OA strategy, community building, conversion optimization |
-| 🧠 [Zhihu Strategist](marketing/marketing-zhihu-strategist.md) | Thought leadership, knowledge-driven engagement | Zhihu authority building, Q&A strategy, lead generation |
-| 🇨🇳 [Baidu SEO Specialist](marketing/marketing-baidu-seo-specialist.md) | Baidu optimization, China SEO, ICP compliance | Ranking in Baidu and reaching China's search market |
-| 🎬 [Bilibili Content Strategist](marketing/marketing-bilibili-content-strategist.md) | B站 algorithm, danmaku culture, UP主 growth | Building audiences on Bilibili with community-first content |
-| 🎠 [Carousel Growth Engine](marketing/marketing-carousel-growth-engine.md) | TikTok/Instagram carousels, autonomous publishing | Generating and publishing viral carousel content |
-| 💼 [LinkedIn Content Creator](marketing/marketing-linkedin-content-creator.md) | Personal branding, thought leadership, professional content | LinkedIn growth, professional audience building, B2B content |
-| 🛒 [China E-Commerce Operator](marketing/marketing-china-ecommerce-operator.md) | Taobao, Tmall, Pinduoduo, live commerce | Running multi-platform e-commerce in China |
-| 🎥 [Kuaishou Strategist](marketing/marketing-kuaishou-strategist.md) | Kuaishou, 老铁 community, grassroots growth | Building authentic audiences in lower-tier markets |
-| 🔍 [SEO Specialist](marketing/marketing-seo-specialist.md) | Technical SEO, content strategy, link building | Driving sustainable organic search growth |
-| 📘 [Book Co-Author](marketing/marketing-book-co-author.md) | Thought-leadership books, ghostwriting, publishing | Strategic book collaboration for founders and experts |
-| 🌏 [Cross-Border E-Commerce Specialist](marketing/marketing-cross-border-ecommerce.md) | Amazon, Shopee, Lazada, cross-border fulfillment | Full-funnel cross-border e-commerce strategy |
-| 🎵 [Douyin Strategist](marketing/marketing-douyin-strategist.md) | Douyin platform, short-video marketing, algorithm | Growing audiences on China's leading short-video platform |
-| 🎙️ [Livestream Commerce Coach](marketing/marketing-livestream-commerce-coach.md) | Host training, live room optimization, conversion | Building high-performing livestream e-commerce operations |
-| 🎧 [Podcast Strategist](marketing/marketing-podcast-strategist.md) | Podcast content strategy, platform optimization | Chinese podcast market strategy and operations |
-| 🔒 [Private Domain Operator](marketing/marketing-private-domain-operator.md) | WeCom, private traffic, community operations | Building enterprise WeChat private domain ecosystems |
-| 🎬 [Short-Video Editing Coach](marketing/marketing-short-video-editing-coach.md) | Post-production, editing workflows, platform specs | Hands-on short-video editing training and optimization |
-| 🔥 [Weibo Strategist](marketing/marketing-weibo-strategist.md) | Sina Weibo, trending topics, fan engagement | Full-spectrum Weibo operations and growth |
-| 🎙️ [Global Podcast Strategist](marketing/marketing-global-podcast-strategist.md) | Show positioning, audience growth, monetisation | Podcast launch, platform algorithms, sponsorship, community building |
-| 🔮 [AI Citation Strategist](marketing/marketing-ai-citation-strategist.md) | AEO/GEO, AI recommendation visibility, citation auditing | Improving brand visibility across ChatGPT, Claude, Gemini, Perplexity |
-| 🇨🇳 [China Market Localization Strategist](marketing/marketing-china-market-localization-strategist.md) | Full-stack China market localization, Douyin/Xiaohongshu/WeChat GTM | Turning trend signals into executable China go-to-market strategies |
-| 🎬 [Video Optimization Specialist](marketing/marketing-video-optimization-specialist.md) | YouTube algorithm strategy, chaptering, thumbnail concepts | YouTube channel growth, video SEO, audience retention optimization |
-| 🏗️ [AEO Foundations Architect](marketing/marketing-aeo-foundations.md) | AI Engine Optimization infrastructure | llms.txt, AI-aware robots.txt, agent discovery files |
-| 🤖 [Agentic Search Optimizer](marketing/marketing-agentic-search-optimizer.md) | WebMCP & agentic task completion | Making sites usable by AI browsing agents |
-| 📧 [Email Marketing Strategist](marketing/marketing-email-strategist.md) | Lifecycle email & deliverability | CRM campaigns, automation, segmentation |
-| 📡 [Multi-Platform Publisher](marketing/marketing-multi-platform-publisher.md) | One-click Chinese multi-platform publishing | Routing one article to 知乎/小红书/CSDN/B站/公众号/掘金 |
-| 📣 [PR & Communications Manager](marketing/marketing-pr-communications-manager.md) | PR, media relations & crisis comms | Press releases, thought leadership, reputation |
+| 🚀 [Growth Hacker](marketing/marketing-growth-hacker.md) | Aquisição rápida de usuários, loops virais, experimentos | Crescimento explosivo, aquisição de usuários, otimização de conversão |
+| 📝 [Content Creator](marketing/marketing-content-creator.md) | Conteúdo multiplataforma, calendários editoriais | Estratégia de conteúdo, copywriting, storytelling de marca |
+| 🐦 [Twitter Engager](marketing/marketing-twitter-engager.md) | Engajamento em tempo real, liderança de pensamento | Estratégia no Twitter/X, campanhas no LinkedIn, presença social profissional |
+| 🛰️ [X/Twitter Intelligence Analyst](marketing/marketing-x-twitter-intelligence-analyst.md) | Escuta social (social listening), detecção de tendências, monitoramento de contas | Risco de marca, concorrência e inteligência de audiência no X/Twitter |
+| 📱 [TikTok Strategist](marketing/marketing-tiktok-strategist.md) | Conteúdo viral, otimização para algoritmos | Crescimento no TikTok, conteúdo viral, alcance de públicos Gen Z/Millennials |
+| 📸 [Instagram Curator](marketing/marketing-instagram-curator.md) | Storytelling visual, construção de comunidade | Estratégia de Instagram, desenvolvimento estético, conteúdo visual |
+| 🤝 [Reddit Community Builder](marketing/marketing-reddit-community-builder.md) | Engajamento autêntico, conteúdo focado em valor | Estratégia no Reddit, geração de confiança na comunidade, marketing não-invasivo |
+| 📱 [App Store Optimizer](marketing/marketing-app-store-optimizer.md) | ASO, otimização de conversão, descoberta | Marketing para apps, otimização em lojas de aplicativos, crescimento mobile |
+| 🌐 [Social Media Strategist](marketing/marketing-social-media-strategist.md) | Estratégia multicanal, campanhas | Estratégia social global, campanhas em múltiplas plataformas |
+| 📕 [Xiaohongshu Specialist](marketing/marketing-xiaohongshu-specialist.md) | Conteúdo de lifestyle, estratégia baseada em tendências | Crescimento no Xiaohongshu (RED), narrativas estéticas, público Gen Z |
+| 💬 [WeChat Official Account Manager](marketing/marketing-wechat-official-account.md) | Engajamento de inscritos, marketing de conteúdo | Estratégia de contas oficiais no WeChat, comunidades, conversão |
+| 🧠 [Zhihu Strategist](marketing/marketing-zhihu-strategist.md) | Liderança de pensamento, engajamento baseado em conhecimento | Construção de autoridade no Zhihu, estratégia de P&R, captação de leads |
+| 🇨🇳 [Baidu SEO Specialist](marketing/marketing-baidu-seo-specialist.md) | Otimização para o Baidu, SEO China, conformidade com ICP | Posicionamento nas buscas do Baidu e alcance do mercado de busca chinês |
+| 🎬 [Bilibili Content Strategist](marketing/marketing-bilibili-content-strategist.md) | Algoritmo do Bilibili, cultura danmaku, crescimento de criadores (UP主) | Construção de audiência no Bilibili com foco comunitário |
+| 🎠 [Carousel Growth Engine](marketing/marketing-carousel-growth-engine.md) | Carrosséis para TikTok/Instagram, publicação autônoma | Criação e publicação de carrosséis com potencial viral |
+| 💼 [LinkedIn Content Creator](marketing/marketing-linkedin-content-creator.md) | Marca pessoal, liderança de pensamento, conteúdo profissional | Crescimento no LinkedIn, audiência corporativa, conteúdo B2B |
+| 🛒 [China E-Commerce Operator](marketing/marketing-china-ecommerce-operator.md) | Taobao, Tmall, Pinduoduo, live commerce | Operação de e-commerce multiplataforma na China |
+| 🎥 [Kuaishou Strategist](marketing/marketing-kuaishou-strategist.md) | Kuaishou, comunidade 老铁, crescimento orgânico de base | Construção de audiências autênticas em mercados e cidades menores |
+| 🔍 [SEO Specialist](marketing/marketing-seo-specialist.md) | SEO técnico, estratégia de conteúdo, link building | Impulsionamento de crescimento orgânico sustentável nas buscas |
+| 📘 [Book Co-Author](marketing/marketing-book-co-author.md) | Livros de liderança intelectual, ghostwriting, publicação | Coautoria estratégica de livros para fundadores e especialistas |
+| 🌏 [Cross-Border E-Commerce Specialist](marketing/marketing-cross-border-ecommerce.md) | Amazon, Shopee, Lazada, logística cross-border | Estratégia de e-commerce internacional de ponta a ponta |
+| 🎵 [Douyin Strategist](marketing/marketing-douyin-strategist.md) | Plataforma Douyin, marketing de vídeos curtos, algoritmo | Crescimento de audiência na principal plataforma de vídeos curtos da China |
+| 🎙️ [Livestream Commerce Coach](marketing/marketing-livestream-commerce-coach.md) | Treinamento de apresentadores, otimização de salas ao vivo, conversão | Operações de live commerce de alta performance |
+| 🎧 [Podcast Strategist](marketing/marketing-podcast-strategist.md) | Estratégia de conteúdo para podcasts, otimização de plataformas | Operações e estratégias voltadas ao mercado chinês de podcasts |
+| 🔒 [Private Domain Operator](marketing/marketing-private-domain-operator.md) | WeCom, tráfego privado, gestão de comunidades | Ecossistemas de tráfego e domínio privado no WeChat corporativo |
+| 🎬 [Short-Video Editing Coach](marketing/marketing-short-video-editing-coach.md) | Pós-produção, fluxos de edição, especificações por plataforma | Treinamento prático de edição de vídeos curtos e otimização |
+| 🔥 [Weibo Strategist](marketing/marketing-weibo-strategist.md) | Sina Weibo, tópicos em alta (trending topics), engajamento de fãs | Operações completas e crescimento no Weibo |
+| 🎙️ [Global Podcast Strategist](marketing/marketing-global-podcast-strategist.md) | Posicionamento de programas, crescimento de audiência, monetização | Lançamento de podcasts, algoritmos de plataformas, patrocínios, comunidade |
+| 🔮 [AI Citation Strategist](marketing/marketing-ai-citation-strategist.md) | AEO/GEO, visibilidade em recomendações de IA, auditoria de citações | Aumento da visibilidade da marca no ChatGPT, Claude, Gemini e Perplexity |
+| 🇨🇳 [China Market Localization Strategist](marketing/marketing-china-market-localization-strategist.md) | Localização completa de mercado chinês, GTM via Douyin/Xiaohongshu/WeChat | Transformação de sinais de tendências em estratégias de go-to-market na China |
+| 🎬 [Video Optimization Specialist](marketing/marketing-video-optimization-specialist.md) | Estratégia para o algoritmo do YouTube, capítulos, ideias de miniaturas (thumbnails) | Crescimento de canais no YouTube, SEO de vídeo, retenção de público |
+| 🏗️ [AEO Foundations Architect](marketing/marketing-aeo-foundations.md) | Infraestrutura de Otimização para Motores de IA (AEO) | llms.txt, robots.txt amigável a IA, arquivos de descoberta para agentes |
+| 🤖 [Agentic Search Optimizer](marketing/marketing-agentic-search-optimizer.md) | WebMCP e conclusão de tarefas por agentes | Tornar sites utilizáveis por agentes de IA com navegação autônoma |
+| 📧 [Email Marketing Strategist](marketing/marketing-email-strategist.md) | Ciclo de vida por e-mail e entregabilidade | Campanhas de CRM, automação, segmentação |
+| 📡 [Multi-Platform Publisher](marketing/marketing-multi-platform-publisher.md) | Publicação em um clique em múltiplas plataformas chinesas | Distribuição simultânea de artigos para Zhihu/Xiaohongshu/CSDN/Bilibili/WeChat/Juejin |
+| 📣 [PR & Communications Manager](marketing/marketing-pr-communications-manager.md) | Relações públicas, assessoria de imprensa e comunicação de crise | Comunicados de imprensa, liderança de pensamento, reputação |
 
-### 📊 Product Division
+### 📊 Divisão de Produto
 
-Building the right thing at the right time.
+Construindo a coisa certa no momento certo.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🎯 [Sprint Prioritizer](product/product-sprint-prioritizer.md) | Agile planning, feature prioritization | Sprint planning, resource allocation, backlog management |
-| 🔍 [Trend Researcher](product/product-trend-researcher.md) | Market intelligence, competitive analysis | Market research, opportunity assessment, trend identification |
-| 💬 [Feedback Synthesizer](product/product-feedback-synthesizer.md) | User feedback analysis, insights extraction | Feedback analysis, user insights, product priorities |
-| 🧠 [Behavioral Nudge Engine](product/product-behavioral-nudge-engine.md) | Behavioral psychology, nudge design, engagement | Maximizing user motivation through behavioral science |
-| 🧭 [Product Manager](product/product-manager.md) | Full lifecycle product ownership | Discovery, PRDs, roadmap planning, GTM, outcome measurement |
+| 🎯 [Sprint Prioritizer](product/product-sprint-prioritizer.md) | Planejamento ágil, priorização de recursos | Planejamento de sprints, alocação de recursos, gerenciamento de backlog |
+| 🔍 [Trend Researcher](product/product-trend-researcher.md) | Inteligência de mercado, análise competitiva | Pesquisa de mercado, avaliação de oportunidades, identificação de tendências |
+| 💬 [Feedback Synthesizer](product/product-feedback-synthesizer.md) | Análise de feedback de usuários, extração de insights | Análise de opiniões, insights de usuários, definição de prioridades de produto |
+| 🧠 [Behavioral Nudge Engine](product/product-behavioral-nudge-engine.md) | Psicologia comportamental, design de nudges, engajamento | Maximização da motivação do usuário através de ciência comportamental |
+| 🧭 [Product Manager](product/product-manager.md) | Gestão de ciclo de vida completo de produto | Descoberta, PRDs, planejamento de roadmap, GTM, mensuração de resultados |
 
-### 🎬 Project Management Division
+### 🎬 Divisão de Gestão de Projetos
 
-Keeping the trains running on time (and under budget).
+Mantendo os prazos em dia (e dentro do orçamento).
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🎬 [Studio Producer](project-management/project-management-studio-producer.md) | High-level orchestration, portfolio management | Multi-project oversight, strategic alignment, resource allocation |
-| 🐑 [Project Shepherd](project-management/project-management-project-shepherd.md) | Cross-functional coordination, timeline management | End-to-end project coordination, stakeholder management |
-| ⚙️ [Studio Operations](project-management/project-management-studio-operations.md) | Day-to-day efficiency, process optimization | Operational excellence, team support, productivity |
-| 🧪 [Experiment Tracker](project-management/project-management-experiment-tracker.md) | A/B tests, hypothesis validation | Experiment management, data-driven decisions, testing |
-| 👔 [Senior Project Manager](project-management/project-manager-senior.md) | Realistic scoping, task conversion | Converting specs to tasks, scope management |
-| 📋 [Jira Workflow Steward](project-management/project-management-jira-workflow-steward.md) | Git workflow, branch strategy, traceability | Enforcing Jira-linked Git discipline and delivery |
-| 📋 [Meeting Notes Specialist](project-management/project-management-meeting-notes-specialist.md) | Structured meeting summaries | Extracting decisions, action items, open questions |
+| 🎬 [Studio Producer](project-management/project-management-studio-producer.md) | Orquestração de alto nível, gestão de portfólio | Supervisão multiprojeto, alinhamento estratégico, alocação de recursos |
+| 🐑 [Project Shepherd](project-management/project-management-project-shepherd.md) | Coordenação multifuncional, gerenciamento de cronogramas | Coordenação de ponta a ponta, relacionamento com stakeholders |
+| ⚙️ [Studio Operations](project-management/project-management-studio-operations.md) | Eficiência do dia a dia, otimização de processos | Excelência operacional, suporte ao time, aumento de produtividade |
+| 🧪 [Experiment Tracker](project-management/project-management-experiment-tracker.md) | Testes A/B, validação de hipóteses | Gestão de experimentos, decisões orientadas a dados, testes |
+| 👔 [Senior Project Manager](project-management/project-manager-senior.md) | Escopo realista, quebra de tarefas | Conversão de especificações em tarefas, controle de escopo |
+| 📋 [Jira Workflow Steward](project-management/project-management-jira-workflow-steward.md) | Fluxo Git, estratégia de branches, rastreabilidade | Aplicação de disciplina Git associada ao Jira e entregas |
+| 📋 [Meeting Notes Specialist](project-management/project-management-meeting-notes-specialist.md) | Resumos estruturados de reuniões | Extração de decisões, planos de ação (action items) e perguntas abertas |
 
-### 🧪 Testing Division
+### 🧪 Divisão de Testes (QA)
 
-Breaking things so users don't have to.
+Quebrando as coisas para que os usuários não precisem passar por isso.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 📸 [Evidence Collector](testing/testing-evidence-collector.md) | Screenshot-based QA, visual proof | UI testing, visual verification, bug documentation |
-| 🔍 [Reality Checker](testing/testing-reality-checker.md) | Evidence-based certification, quality gates | Production readiness, quality approval, release certification |
-| 📊 [Test Results Analyzer](testing/testing-test-results-analyzer.md) | Test evaluation, metrics analysis | Test output analysis, quality insights, coverage reporting |
-| ⚡ [Performance Benchmarker](testing/testing-performance-benchmarker.md) | Performance testing, optimization | Speed testing, load testing, performance tuning |
-| 🔌 [API Tester](testing/testing-api-tester.md) | API validation, integration testing | API testing, endpoint verification, integration QA |
-| 🛠️ [Tool Evaluator](testing/testing-tool-evaluator.md) | Technology assessment, tool selection | Evaluating tools, software recommendations, tech decisions |
-| 🔄 [Workflow Optimizer](testing/testing-workflow-optimizer.md) | Process analysis, workflow improvement | Process optimization, efficiency gains, automation opportunities |
-| ♿ [Accessibility Auditor](testing/testing-accessibility-auditor.md) | WCAG auditing, assistive technology testing | Accessibility compliance, screen reader testing, inclusive design verification |
-| 🎭 [Test Automation Engineer](testing/testing-test-automation-engineer.md) | Playwright/Cypress E2E, flake elimination, CI parallelization | Browser test suites, deterministic pipelines, trace-driven failure debugging |
+| 📸 [Evidence Collector](testing/testing-evidence-collector.md) | QA baseado em capturas de tela, prova visual | Testes de interface, verificação visual, documentação de bugs |
+| 🔍 [Reality Checker](testing/testing-reality-checker.md) | Certificação baseada em evidências, portões de qualidade | Prontidão para produção, aprovação de qualidade, certificação de lançamentos |
+| 📊 [Test Results Analyzer](testing/testing-test-results-analyzer.md) | Avaliação de testes, análise de métricas | Análise de resultados de testes, insights de qualidade, relatórios de cobertura |
+| ⚡ [Performance Benchmarker](testing/testing-performance-benchmarker.md) | Testes de performance, otimização | Testes de velocidade, testes de carga (load testing), ajuste de performance |
+| 🔌 [API Tester](testing/testing-api-tester.md) | Validação de APIs, testes de integração | Testes de API, verificação de endpoints, QA de integração |
+| 🛠️ [Tool Evaluator](testing/testing-tool-evaluator.md) | Avaliação tecnológica, seleção de ferramentas | Escolha de ferramentas, recomendações de software, decisões de stack |
+| 🔄 [Workflow Optimizer](testing/testing-workflow-optimizer.md) | Análise de processos, melhoria de fluxos de trabalho | Otimização de processos, ganhos de eficiência, oportunidades de automação |
+| ♿ [Accessibility Auditor](testing/testing-accessibility-auditor.md) | Auditoria WCAG, testes com tecnologias assistivas | Conformidade de acessibilidade, leitores de tela, validação de design inclusivo |
+| 🎭 [Test Automation Engineer](testing/testing-test-automation-engineer.md) | E2E com Playwright/Cypress, eliminação de instabilidade (flakiness), paralelização em CI | Suítes de testes de navegador, pipelines determinísticos, depuração por rastros (traces) |
 
-### 🔒 Security Division
+### 🔒 Divisão de Segurança
 
-Defending the stack — from secure-by-design architecture to breach response.
+Defendendo toda a stack — desde a arquitetura segura por design até a resposta a incidentes.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🛡️ [Security Architect](security/security-architect.md) | Threat modeling, secure-by-design, trust boundaries | System security models, architecture reviews, defense-in-depth |
-| 🔐 [Application Security Engineer](security/security-appsec-engineer.md) | SDLC security, SAST/DAST, secure code review | Securing the dev lifecycle, code-level vulnerabilities |
-| 🗡️ [Penetration Tester](security/security-penetration-tester.md) | Authorized pentests, red team ops, exploitation | Finding exploitable weaknesses before attackers do |
-| ☁️ [Cloud Security Architect](security/security-cloud-security-architect.md) | Zero trust, cloud-native defense-in-depth | Securing cloud infrastructure and architectures |
-| 🚨 [Incident Responder](security/security-incident-responder.md) | DFIR, breach investigation, threat containment | Active breaches, forensics, crisis response |
-| 🔍 [Threat Intelligence Analyst](security/security-threat-intelligence-analyst.md) | Adversary tracking, campaign mapping, ATT&CK | Understanding who's attacking and how |
-| 🎯 [Threat Detection Engineer](security/security-threat-detection-engineer.md) | SIEM rules, threat hunting, ATT&CK mapping | Building detection layers and threat hunting |
-| 🛡️ [Senior SecOps Engineer](security/security-senior-secops.md) | Secrets scanning, secure-by-default submissions | Defensive code-level security on every change |
-| 📋 [Compliance Auditor](security/security-compliance-auditor.md) | SOC 2, ISO 27001, HIPAA, PCI-DSS | Guiding organizations through compliance certification |
-| 🛡️ [Blockchain Security Auditor](security/security-blockchain-security-auditor.md) | Smart contract audits, exploit analysis | Finding vulnerabilities in contracts before deployment |
-| 🔎 [AI-Generated Code Security Auditor](security/security-ai-generated-code-auditor.md) | Security review of AI/vibe-coded apps | Hardcoded secrets, broken RLS, prompt-injection sinks |
-| 🔑 [Secrets & Credential Hygiene Engineer](security/security-secrets-credential-engineer.md) | Secrets & credential lifecycle | Detection, vaulting, rotation, leak response |
+| 🛡️ [Security Architect](security/security-architect.md) | Modelagem de ameaças, secure-by-design, limites de confiança | Modelos de segurança de sistemas, revisões de arquitetura, defesa em profundidade |
+| 🔐 [Application Security Engineer](security/security-appsec-engineer.md) | Segurança no SDLC, SAST/DAST, revisão segura de código | Proteção do ciclo de desenvolvimento, vulnerabilidades a nível de código |
+| 🗡️ [Penetration Tester](security/security-penetration-tester.md) | Pentests autorizados, operações de red team, exploração | Localizar brechas exploráveis antes que invasores as encontrem |
+| ☁️ [Cloud Security Architect](security/security-cloud-security-architect.md) | Zero trust, defesa em profundidade nativa em nuvem | Proteção de infraestrutura e arquiteturas em nuvem |
+| 🚨 [Incident Responder](security/security-incident-responder.md) | DFIR, investigação de vazamentos, contenção de ameaças | Resposta a invasões ativas, perícia forense, contenção de crises |
+| 🔍 [Threat Intelligence Analyst](security/security-threat-intelligence-analyst.md) | Rastreamento de adversários, mapeamento de campanhas, ATT&CK | Identificar quem está atacando e quais técnicas estão sendo utilizadas |
+| 🎯 [Threat Detection Engineer](security/security-threat-detection-engineer.md) | Regras SIEM, threat hunting, mapeamento ATT&CK | Criação de camadas de detecção e caça ativa a ameaças |
+| 🛡️ [Senior SecOps Engineer](security/security-senior-secops.md) | Varredura de segredos, envios seguros por padrão | Segurança defensiva a nível de código em cada alteração |
+| 📋 [Compliance Auditor](security/security-compliance-auditor.md) | SOC 2, ISO 27001, HIPAA, PCI-DSS | Orientação de empresas em auditorias de certificação e conformidade |
+| 🛡️ [Blockchain Security Auditor](security/security-blockchain-security-auditor.md) | Auditorias de contratos inteligentes, análise de exploits | Localização de vulnerabilidades em smart contracts antes do deploy |
+| 🔎 [AI-Generated Code Security Auditor](security/security-ai-generated-code-auditor.md) | Revisão de segurança de apps gerados por IA ("vibe coding") | Busca por segredos expostos, falhas de RLS, vulnerabilidades a injeção de prompt |
+| 🔑 [Secrets & Credential Hygiene Engineer](security/security-secrets-credential-engineer.md) | Ciclo de vida de segredos e credenciais | Detecção, armazenamento em cofre (vault), rotação e resposta a vazamentos |
 
-### 🛟 Support Division
+### 🛟 Divisão de Suporte
 
-The backbone of the operation.
+A espinha dorsal das operações.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 💬 [Support Responder](support/support-support-responder.md) | Customer service, issue resolution | Customer support, user experience, support operations |
-| 📊 [Analytics Reporter](support/support-analytics-reporter.md) | Data analysis, dashboards, insights | Business intelligence, KPI tracking, data visualization |
-| 💰 [Finance Tracker](support/support-finance-tracker.md) | Financial planning, budget management | Financial analysis, cash flow, business performance |
-| 🏗️ [Infrastructure Maintainer](support/support-infrastructure-maintainer.md) | System reliability, performance optimization | Infrastructure management, system operations, monitoring |
-| ⚖️ [Legal Compliance Checker](support/support-legal-compliance-checker.md) | Compliance, regulations, legal review | Legal compliance, regulatory requirements, risk management |
-| 📑 [Executive Summary Generator](support/support-executive-summary-generator.md) | C-suite communication, strategic summaries | Executive reporting, strategic communication, decision support |
+| 💬 [Support Responder](support/support-support-responder.md) | Atendimento ao cliente, resolução de chamados | Suporte ao cliente, experiência do usuário, operações de atendimento |
+| 📊 [Analytics Reporter](support/support-analytics-reporter.md) | Análise de dados, dashboards, insights | Business intelligence, acompanhamento de KPIs, visualização de métricas |
+| 💰 [Finance Tracker](support/support-finance-tracker.md) | Planejamento financeiro, controle orçamentário | Análise financeira, fluxo de caixa, desempenho do negócio |
+| 🏗️ [Infrastructure Maintainer](support/support-infrastructure-maintainer.md) | Confiabilidade de sistemas, otimização de performance | Gerenciamento de infraestrutura, operações de sistemas, monitoramento |
+| ⚖️ [Legal Compliance Checker](support/support-legal-compliance-checker.md) | Conformidade regulatória, legislações, revisão jurídica | Conformidade legal, requisitos regulatórios, gestão de riscos |
+| 📑 [Executive Summary Generator](support/support-executive-summary-generator.md) | Comunicação executiva (C-level), resumos estratégicos | Relatórios executivos, comunicação estratégica, apoio à tomada de decisão |
 
-### 🥽 Spatial Computing Division
+### 🥽 Divisão de Computação Espacial
 
-Building the immersive future.
+Construindo o futuro imersivo.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🏗️ [XR Interface Architect](spatial-computing/xr-interface-architect.md) | Spatial interaction design, immersive UX | AR/VR/XR interface design, spatial computing UX |
-| 💻 [macOS Spatial/Metal Engineer](spatial-computing/macos-spatial-metal-engineer.md) | Swift, Metal, high-performance 3D | macOS spatial computing, Vision Pro native apps |
-| 🌐 [XR Immersive Developer](spatial-computing/xr-immersive-developer.md) | WebXR, browser-based AR/VR | Browser-based immersive experiences, WebXR apps |
-| 🎮 [XR Cockpit Interaction Specialist](spatial-computing/xr-cockpit-interaction-specialist.md) | Cockpit-based controls, immersive systems | Cockpit control systems, immersive control interfaces |
-| 🍎 [visionOS Spatial Engineer](spatial-computing/visionos-spatial-engineer.md) | Apple Vision Pro development | Vision Pro apps, spatial computing experiences |
-| 🔌 [Terminal Integration Specialist](spatial-computing/terminal-integration-specialist.md) | Terminal integration, command-line tools | CLI tools, terminal workflows, developer tools |
+| 🏗️ [XR Interface Architect](spatial-computing/xr-interface-architect.md) | Design de interação espacial, UX imersiva | Design de interfaces AR/VR/XR, UX em computação espacial |
+| 💻 [macOS Spatial/Metal Engineer](spatial-computing/macos-spatial-metal-engineer.md) | Swift, Metal, 3D de alta performance | Computação espacial no macOS, apps nativos para Vision Pro |
+| 🌐 [XR Immersive Developer](spatial-computing/xr-immersive-developer.md) | WebXR, AR/VR baseados em navegador | Experiências imersivas no navegador, aplicações WebXR |
+| 🎮 [XR Cockpit Interaction Specialist](spatial-computing/xr-cockpit-interaction-specialist.md) | Controles de cabine/cockpit, sistemas imersivos | Sistemas de controle em cockpit, interfaces de simulação imersiva |
+| 🍎 [visionOS Spatial Engineer](spatial-computing/visionos-spatial-engineer.md) | Desenvolvimento para Apple Vision Pro | Aplicativos para Vision Pro, experiências espaciais |
+| 🔌 [Terminal Integration Specialist](spatial-computing/terminal-integration-specialist.md) | Integração de terminal, ferramentas de linha de comando | Ferramentas CLI, fluxos de trabalho no terminal, ferramentas para desenvolvedores |
 
-### 🎯 Specialized Division
+### 🎯 Divisão Especializada
 
-The unique specialists who don't fit in a box.
+Especialistas únicos que não cabem em caixas tradicionais.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🎭 [Agents Orchestrator](specialized/agents-orchestrator.md) | Multi-agent coordination, workflow management | Complex projects requiring multiple agent coordination |
-| 🔍 [LSP/Index Engineer](specialized/lsp-index-engineer.md) | Language Server Protocol, code intelligence | Code intelligence systems, LSP implementation, semantic indexing |
-| 📥 [Sales Data Extraction Agent](specialized/sales-data-extraction-agent.md) | Excel monitoring, sales metric extraction | Sales data ingestion, MTD/YTD/Year End metrics |
-| 📈 [Data Consolidation Agent](specialized/data-consolidation-agent.md) | Sales data aggregation, dashboard reports | Territory summaries, rep performance, pipeline snapshots |
-| 📬 [Report Distribution Agent](specialized/report-distribution-agent.md) | Automated report delivery | Territory-based report distribution, scheduled sends |
-| 🔐 [Agentic Identity & Trust Architect](specialized/agentic-identity-trust.md) | Agent identity, authentication, trust verification | Multi-agent identity systems, agent authorization, audit trails |
-| 🔗 [Identity Graph Operator](specialized/identity-graph-operator.md) | Shared identity resolution for multi-agent systems | Entity deduplication, merge proposals, cross-agent identity consistency |
-| 💸 [Accounts Payable Agent](specialized/accounts-payable-agent.md) | Payment processing, vendor management, audit | Autonomous payment execution across crypto, fiat, stablecoins |
-| 🌍 [Cultural Intelligence Strategist](specialized/specialized-cultural-intelligence-strategist.md) | Global UX, representation, cultural exclusion | Ensuring software resonates across cultures |
-| 🗣️ [Developer Advocate](specialized/specialized-developer-advocate.md) | Community building, DX, developer content | Bridging product and developer community |
-| 🔬 [Model QA Specialist](specialized/specialized-model-qa.md) | ML audits, feature analysis, interpretability | End-to-end QA for machine learning models |
-| 🗃️ [ZK Steward](specialized/zk-steward.md) | Knowledge management, Zettelkasten, notes | Building connected, validated knowledge bases |
-| 🔌 [MCP Builder](specialized/specialized-mcp-builder.md) | Model Context Protocol servers, AI agent tooling | Building MCP servers that extend AI agent capabilities |
-| 📄 [Document Generator](specialized/specialized-document-generator.md) | PDF, PPTX, DOCX, XLSX generation from code | Professional document creation, reports, data visualization |
-| ⚙️ [Automation Governance Architect](specialized/automation-governance-architect.md) | Automation governance, n8n, workflow auditing | Evaluating and governing business automations at scale |
-| 📚 [Corporate Training Designer](specialized/corporate-training-designer.md) | Enterprise training, curriculum development | Designing training systems and learning programs |
-| 🌱 [Personal Growth Mentor](specialized/personal-growth-mentor.md) | Goal clarity, habit systems, accountability, life strategy | Cross-domain personal development without motivational fluff |
-| 🏛️ [Government Digital Presales Consultant](specialized/government-digital-presales-consultant.md) | China ToG presales, digital transformation | Government digital transformation proposals and bids |
-| ⚕️ [Healthcare Marketing Compliance](specialized/healthcare-marketing-compliance.md) | China healthcare advertising compliance | Healthcare marketing regulatory compliance |
-| 🎯 [Recruitment Specialist](specialized/recruitment-specialist.md) | Talent acquisition, recruiting operations | Recruitment strategy, sourcing, and hiring processes |
-| 🎓 [Study Abroad Advisor](specialized/study-abroad-advisor.md) | International education, application planning | Study abroad planning across US, UK, Canada, Australia |
-| 🔗 [Supply Chain Strategist](specialized/supply-chain-strategist.md) | Supply chain management, procurement strategy | Supply chain optimization and procurement planning |
-| 🗺️ [Workflow Architect](specialized/specialized-workflow-architect.md) | Workflow discovery, mapping, and specification | Mapping every path through a system before code is written |
-| ☁️ [Salesforce Architect](specialized/specialized-salesforce-architect.md) | Multi-cloud Salesforce design, governor limits, integrations | Enterprise Salesforce architecture, org strategy, deployment pipelines |
-| 🇫🇷 [French Consulting Market Navigator](specialized/specialized-french-consulting-market.md) | ESN/SI ecosystem, portage salarial, rate positioning | Freelance consulting in the French IT market |
-| 🇰🇷 [Korean Business Navigator](specialized/specialized-korean-business-navigator.md) | Korean business culture, 품의 process, relationship mechanics | Foreign professionals navigating Korean business relationships |
-| 🏗️ [Civil Engineer](specialized/specialized-civil-engineer.md) | Structural analysis, geotechnical design, global building codes | Multi-standard structural engineering across Eurocode, ACI, AISC, and more |
-| 🎧 [Customer Service](specialized/customer-service.md) | Omnichannel support, complaint handling, retention, escalation | Any industry customer support — retail, SaaS, hospitality, finance, logistics |
-| 🏥 [Healthcare Customer Service](specialized/healthcare-customer-service.md) | HIPAA-aware patient support, billing, insurance, emergency routing | Healthcare organizations needing compliant, empathetic patient support |
-| 🏨 [Hospitality Guest Services](specialized/hospitality-guest-services.md) | Reservations, concierge, complaint recovery, loyalty, events | Hotels, resorts, restaurants, and event venues |
-| 🤝 [HR Onboarding](specialized/hr-onboarding.md) | Pre-boarding, compliance, benefits enrollment, 30-60-90 day plans | Any company onboarding new hires — from startups to enterprise |
-| 🌐 [Language Translator](specialized/language-translator.md) | Spanish ↔ English translation, dialect awareness, cultural context | Travel, business, medical, and legal translation needs |
-| ⏱️ [Legal Billing & Time Tracking](specialized/legal-billing-time-tracking.md) | Time capture, billing narratives, IOLTA compliance, collections | Law firms maximizing revenue recovery and billing accuracy |
-| 📋 [Legal Client Intake](specialized/legal-client-intake.md) | Prospect qualification, conflict screening, consultation scheduling | Law firms converting inquiries into retained clients |
-| ⚖️ [Legal Document Review](specialized/legal-document-review.md) | Contract review, risk flagging, version comparison, compliance | Attorney-ready first-pass review across any practice area |
-| 🏦 [Loan Officer Assistant](specialized/loan-officer-assistant.md) | Borrower intake, TRID compliance, pipeline tracking, closing coordination | Mortgage and consumer lending teams |
-| 🏠 [Real Estate Buyer & Seller](specialized/real-estate-buyer-seller.md) | Buyer/seller representation, offers, transaction coordination | Residential and investment real estate transactions |
-| 🛒 [Retail Customer Returns](specialized/retail-customer-returns.md) | Return processing, fraud prevention, exchanges, vendor returns | Brick-and-mortar, e-commerce, and omnichannel retail |
-| ♟️ [Business Strategist](specialized/business-strategist.md) | Management-consulting strategy | Competitive analysis, market entry, growth planning |
-| 🔄 [Change Management Consultant](specialized/change-management-consultant.md) | ADKAR/Kotter/Prosci change | Guiding orgs through transformation & adoption |
-| 🧭 [Chief of Staff](specialized/specialized-chief-of-staff.md) | Executive coordination | Filtering noise, owning processes, routing decisions |
-| 🌟 [Customer Success Manager](specialized/customer-success-manager.md) | Onboarding, health & retention | QBRs, churn prevention, renewals & expansion |
-| 📝 [Grant Writer](specialized/grant-writer.md) | Grant proposals & funding | LOIs, proposals, budgets for nonprofits/research |
-| 🏥 [Medical Billing & Coding Specialist](specialized/medical-billing-coding-specialist.md) | ICD-10/CPT/HCPCS & revenue cycle | Claims, denial management, RCM optimization |
-| 💰 [Pricing Analyst](specialized/specialized-pricing-analyst.md) | Pricing models & margin optimization | Competitor/cost analysis, value-based pricing |
-| 💼 [Chief Financial Officer](specialized/chief-financial-officer.md) | Capital allocation & financial strategy | Treasury, FP&A, M&A finance, investor & board reporting |
-| 🌱 [ESG & Sustainability Officer](specialized/esg-sustainability-officer.md) | ESG programs & disclosure | Sustainability strategy, decarbonization, reporting |
-| 🔐 [Data Privacy Officer](specialized/data-privacy-officer.md) | GDPR/CCPA privacy compliance | Data mapping, DPIAs, consent, breach response |
-| ⚙️ [Operations Manager](specialized/operations-manager.md) | Lean/Six Sigma operations | Process mapping, capacity planning, KPI governance |
-| 🤝 [M&A Integration Manager](specialized/ma-integration-manager.md) | Post-merger integration | Day 1/100-day plans, synergy tracking, TSA management |
-| 🧠 [Organizational Psychologist](specialized/organizational-psychologist.md) | Team dynamics & culture health | Psychological safety, burnout risk, high-performing teams |
-| ⚔️ [Strategy Duel Agent](specialized/specialized-strategy-duel-agent.md) | Game theory & the 36 stratagems | Turn-based strategy duels, adversarial scenario simulation |
-| 🛡️ [FedRAMP & RMF Compliance Engineer](specialized/specialized-fedramp-rmf-compliance.md) | Federal cloud authorization (ATO) | NIST 800-53, FedRAMP Rev5/20x, SSP/POA&M, ConMon, OSCAL |
-| 🏺 [Codebase Archaeologist](specialized/specialized-codebase-archaeologist.md) | Multi-tool codebase drift audits | Detecting silent drift across Claude/Cursor/Copilot/Windsurf edits |
-| 🧾 [Resume Tailor](specialized/resume-tailor.md) | Candidate-side resume optimization | JD mapping, ATS keyword alignment, experience-to-requirement matching |
-| 🧡 [Aging Parent Care Companion](specialized/healthcare-aging-parent-care-companion.md) | Family caregiver decision-support | Appointment/medication coordination, care-team comms, caregiver wellbeing (HIPAA-aligned) |
-| 🏛️ [Master Plan Architect](specialized/specialized-master-plan-architect.md) | Architectural teaching, red-team plan critique | Deep architecture teaching, risk critique, comprehensive Markdown implementation plans (no code execution) |
+| 🎭 [Agents Orchestrator](specialized/agents-orchestrator.md) | Coordenação multi-agente, gestão de fluxos de trabalho | Projetos complexos que exigem orquestração entre múltiplos agentes |
+| 🔍 [LSP/Index Engineer](specialized/lsp-index-engineer.md) | Protocolo LSP, inteligência de código | Sistemas de inteligência de código, implementação de LSP, indexação semântica |
+| 📥 [Sales Data Extraction Agent](specialized/sales-data-extraction-agent.md) | Monitoramento de Excel, extração de métricas de vendas | Ingestão de dados comerciais, métricas MTD, YTD e de fim de ano |
+| 📈 [Data Consolidation Agent](specialized/data-consolidation-agent.md) | Agregação de dados de vendas, relatórios em painéis | Resumos territoriais, desempenho de representantes, fotos do pipeline |
+| 📬 [Report Distribution Agent](specialized/report-distribution-agent.md) | Envio automatizado de relatórios | Distribuição de relatórios por território, envios agendados |
+| 🔐 [Agentic Identity & Trust Architect](specialized/agentic-identity-trust.md) | Identidade de agentes, autenticação, verificação de confiança | Sistemas de identidade multi-agente, autorização de agentes, trilhas de auditoria |
+| 🔗 [Identity Graph Operator](specialized/identity-graph-operator.md) | Resolução compartilhada de identidade para sistemas multi-agente | Deduplicação de entidades, propostas de mesclagem, consistência entre agentes |
+| 💸 [Accounts Payable Agent](specialized/accounts-payable-agent.md) | Processamento de pagamentos, gestão de fornecedores, auditoria | Execução autônoma de contas a pagar em cripto, moedas fiduciárias e stablecoins |
+| 🌍 [Cultural Intelligence Strategist](specialized/specialized-cultural-intelligence-strategist.md) | UX global, representatividade, exclusão cultural | Garantir que o software ressoe de forma adequada entre diferentes culturas |
+| 🗣️ [Developer Advocate](specialized/specialized-developer-advocate.md) | Construção de comunidade, DX, conteúdo técnico | Ponte entre o produto e a comunidade de desenvolvedores |
+| 🔬 [Model QA Specialist](specialized/specialized-model-qa.md) | Auditorias de ML, análise de variáveis, interpretabilidade | QA de ponta a ponta para modelos de machine learning |
+| 🗃️ [ZK Steward](specialized/zk-steward.md) | Gestão do conhecimento, Zettelkasten, notas | Construção de bases de conhecimento conectadas e validadas |
+| 🔌 [MCP Builder](specialized/specialized-mcp-builder.md) | Servidores Model Context Protocol (MCP), ferramentas para agentes | Criação de servidores MCP para estender capacidades de agentes de IA |
+| 📄 [Document Generator](specialized/specialized-document-generator.md) | Geração de PDF, PPTX, DOCX, XLSX via código | Criação de documentos profissionais, relatórios, visualização de dados |
+| ⚙️ [Automation Governance Architect](specialized/automation-governance-architect.md) | Governança de automação, n8n, auditoria de fluxos | Avaliação e governança de automações corporativas em escala |
+| 📚 [Corporate Training Designer](specialized/corporate-training-designer.md) | Treinamento corporativo, desenvolvimento de currículos | Criação de programas de aprendizagem e capacitação profissional |
+| 🌱 [Personal Growth Mentor](specialized/personal-growth-mentor.md) | Clareza de metas, sistemas de hábitos, responsabilidade, estratégia de vida | Desenvolvimento pessoal prático e sem clichês motivacionais |
+| 🏛️ [Government Digital Presales Consultant](specialized/government-digital-presales-consultant.md) | Pré-vendas ToG (governo) na China, transformação digital | Propostas e licitações para projetos públicos digitais |
+| ⚕️ [Healthcare Marketing Compliance](specialized/healthcare-marketing-compliance.md) | Conformidade de publicidade em saúde na China | Adequação regulatória de marketing médico e de saúde |
+| 🎯 [Recruitment Specialist](specialized/recruitment-specialist.md) | Aquisição de talentos, operações de recrutamento | Estratégia de recrutamento, sourcing e processos seletivos |
+| 🎓 [Study Abroad Advisor](specialized/study-abroad-advisor.md) | Educação internacional, planejamento de candidaturas | Planejamento de intercâmbio/estudos nos EUA, Reino Unido, Canadá e Austrália |
+| 🔗 [Supply Chain Strategist](specialized/supply-chain-strategist.md) | Gestão de cadeia de suprimentos, estratégia de compras | Otimização de suprimentos e planejamento de procurement |
+| 🗺️ [Workflow Architect](specialized/specialized-workflow-architect.md) | Descoberta, mapeamento e especificação de fluxos de trabalho | Mapeamento de todos os caminhos do sistema antes do início da codificação |
+| ☁️ [Salesforce Architect](specialized/specialized-salesforce-architect.md) | Design multi-cloud em Salesforce, limites de governor, integrações | Arquitetura corporativa em Salesforce, estratégia de instâncias (orgs), pipelines |
+| 🇫🇷 [French Consulting Market Navigator](specialized/specialized-french-consulting-market.md) | Ecossistema ESN/SI, portage salarial, precificação | Atuação como consultor freelancer no mercado francês de TI |
+| 🇰🇷 [Korean Business Navigator](specialized/specialized-korean-business-navigator.md) | Cultura de negócios coreana, processo 품의, dinâmicas de relacionamento | Navegação em parcerias e relações corporativas no mercado sul-coreano |
+| 🏗️ [Civil Engineer](specialized/specialized-civil-engineer.md) | Análise estrutural, projeto geotécnico, normas globais de construção | Engenharia estrutural multi-normas (Eurocode, ACI, AISC e outras) |
+| 🎧 [Customer Service](specialized/customer-service.md) | Suporte omnichannel, tratamento de reclamações, retenção, escalonamento | Atendimento ao cliente para qualquer setor: varejo, SaaS, hotelaria, logística |
+| 🏥 [Healthcare Customer Service](specialized/healthcare-customer-service.md) | Suporte ao paciente com conformidade HIPAA, faturamento, convênios | Suporte empático e em conformidade regulatória para o setor de saúde |
+| 🏨 [Hospitality Guest Services](specialized/hospitality-guest-services.md) | Reservas, concierge, resolução de reclamações, fidelidade | Hotéis, resorts, restaurantes e eventos |
+| 🤝 [HR Onboarding](specialized/hr-onboarding.md) | Pré-onboarding, conformidade, benefícios, planos de 30-60-90 dias | Onboarding de novos colaboradores de startups a grandes empresas |
+| 🌐 [Language Translator](specialized/language-translator.md) | Tradução Espanhol ↔ Inglês, nuances de dialetos, contexto cultural | Tradução para viagens, negócios, medicina e contextos jurídicos |
+| ⏱️ [Legal Billing & Time Tracking](specialized/legal-billing-time-tracking.md) | Registro de horas, descrições de faturamento, compliance IOLTA | Escritórios de advocacia que buscam precisão de faturamento e recuperação de honorários |
+| 📋 [Legal Client Intake](specialized/legal-client-intake.md) | Qualificação de clientes em potencial, triagem de conflitos, agendamentos | Captação e conversão de consultas em clientes contratados para escritórios |
+| ⚖️ [Legal Document Review](specialized/legal-document-review.md) | Revisão contratual, identificação de riscos, comparação de versões | Primeira análise detalhada de documentos e contratos pronta para advogados |
+| 🏦 [Loan Officer Assistant](specialized/loan-officer-assistant.md) | Ingestão de tomadores, conformidade TRID, pipeline, coordenação de fechamento | Equipes de originação de crédito imobiliário e financiamentos |
+| 🏠 [Real Estate Buyer & Seller](specialized/real-estate-buyer-seller.md) | Representação de compradores/vendedores, ofertas, coordenação de transações | Negociações e transações no mercado imobiliário residencial e comercial |
+| 🛒 [Retail Customer Returns](specialized/retail-customer-returns.md) | Processamento de devoluções, prevenção a fraudes, trocas | Varejo físico, e-commerce e operações omnichannel |
+| ♟️ [Business Strategist](specialized/business-strategist.md) | Estratégia estilo consultoria de gestão | Análise competitiva, entrada de mercado, planos de crescimento |
+| 🔄 [Change Management Consultant](specialized/change-management-consultant.md) | Gestão de mudanças com frameworks ADKAR/Kotter/Prosci | Condução de organizações em processos de transformação e adoção cultural |
+| 🧭 [Chief of Staff](specialized/specialized-chief-of-staff.md) | Coordenação executiva | Filtragem de ruídos, liderança de processos internos, direcionamento de decisões |
+| 🌟 [Customer Success Manager](specialized/customer-success-manager.md) | Onboarding, saúde da conta e retenção | QBRs, prevenção de churn, renovações e expansão de receita |
+| 📝 [Grant Writer](specialized/grant-writer.md) | Propostas de financiamento e submissão a editais/grants | Cartas de intenção (LOIs), redação de propostas e orçamentos para ONGs e pesquisa |
+| 🏥 [Medical Billing & Coding Specialist](specialized/medical-billing-coding-specialist.md) | Faturamento médico, ICD-10/CPT/HCPCS e ciclo de receita | Faturamento, gestão de glosas/recusas e otimização do ciclo de receita em saúde |
+| 💰 [Pricing Analyst](specialized/specialized-pricing-analyst.md) | Modelos de precificação e otimização de margem | Análise de custos e concorrência, precificação baseada em valor |
+| 💼 [Chief Financial Officer](specialized/chief-financial-officer.md) | Alocação de capital e estratégia financeira | Tesouraria, FP&A, finanças de M&A, relatórios para investidores e conselhos |
+| 🌱 [ESG & Sustainability Officer](specialized/esg-sustainability-officer.md) | Programas de ESG e relatórios de sustentabilidade | Estratégia de sustentabilidade, descarbonização, relatórios regulatórios |
+| 🔐 [Data Privacy Officer](specialized/data-privacy-officer.md) | Conformidade de privacidade (LGPD/GDPR/CCPA) | Mapeamento de dados, relatórios de impacto (DPIA/RIPD), consentimento, resposta a incidentes |
+| ⚙️ [Operations Manager](specialized/operations-manager.md) | Operações com metodologia Lean/Six Sigma | Mapeamento de processos, planejamento de capacidade, governança de KPIs |
+| 🤝 [M&A Integration Manager](specialized/ma-integration-manager.md) | Integração pós-fusão/aquisição | Planos para o Dia 1 / 100 dias, acompanhamento de sinergias, acordos de transição (TSA) |
+| 🧠 [Organizational Psychologist](specialized/organizational-psychologist.md) | Dinâmica de equipes e saúde cultural | Segurança psicológica, riscos de burnout, desenvolvimento de times de alta performance |
+| ⚔️ [Strategy Duel Agent](specialized/specialized-strategy-duel-agent.md) | Teoria dos jogos e Os 36 Estratagemas | Duelos de estratégia por turnos, simulação de cenários adversariais |
+| 🛡️ [FedRAMP & RMF Compliance Engineer](specialized/specialized-fedramp-rmf-compliance.md) | Autorização para nuvem governamental dos EUA (ATO) | NIST 800-53, FedRAMP Rev5/20x, SSP/POA&M, ConMon, OSCAL |
+| 🏺 [Codebase Archaeologist](specialized/specialized-codebase-archaeologist.md) | Auditorias de desvio estrutural (drift) causadas por múltiplas ferramentas | Detecção de desvios silenciosos no código gerados por edições com Claude/Cursor/Copilot/Windsurf |
+| 🧾 [Resume Tailor](specialized/resume-tailor.md) | Otimização de currículos para candidatos | Mapeamento de requisitos de vagas, alinhamento a palavras-chave de ATS, correspondência de experiências |
+| 🧡 [Aging Parent Care Companion](specialized/healthcare-aging-parent-care-companion.md) | Suporte à tomada de decisão para cuidadores familiares | Coordenação de consultas/medicamentos, comunicação médica, bem-estar do cuidador |
+| 🏛️ [Master Plan Architect](specialized/specialized-master-plan-architect.md) | Ensino arquitetural, crítica red-team de planos | Ensino de arquitetura, crítica de riscos, planos de implementação detalhados em Markdown (sem execução de código) |
 
-### 💵 Finance Division
+### 💵 Divisão Financeira
 
-Accounting, financial analysis, tax strategy, and investment research specialists.
+Especialistas em contabilidade, modelagem financeira, estratégia fiscal e pesquisa de investimentos.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 📒 [Bookkeeper & Controller](finance/finance-bookkeeper-controller.md) | Month-end close, reconciliation, GAAP compliance, internal controls | Day-to-day accounting operations, audit readiness, financial record-keeping |
-| 📊 [Financial Analyst](finance/finance-financial-analyst.md) | Financial modeling, forecasting, scenario analysis, decision support | Three-statement models, variance analysis, data-driven business intelligence |
-| 📈 [FP&A Analyst](finance/finance-fpa-analyst.md) | Budgeting, rolling forecasts, variance analysis, business reviews | Annual operating plans, monthly business reviews, strategic resource allocation |
-| 🔍 [Investment Researcher](finance/finance-investment-researcher.md) | Due diligence, portfolio analysis, asset valuation, equity research | Investment thesis development, risk assessment, market research |
-| 🏛️ [Tax Strategist](finance/finance-tax-strategist.md) | Tax optimization, multi-jurisdictional compliance, transfer pricing | Entity structuring, ETR analysis, audit defense, strategic tax planning |
+| 📒 [Bookkeeper & Controller](finance/finance-bookkeeper-controller.md) | Fechamento mensal, conciliação, GAAP/IFRS, controles internos | Operações contábeis diárias, prontidão para auditoria, organização financeira |
+| 📊 [Financial Analyst](finance/finance-financial-analyst.md) | Modelagem financeira, projeções, análise de cenários, suporte a decisões | Modelos de 3 demonstrações, análise de variância, inteligência de negócios |
+| 📈 [FP&A Analyst](finance/finance-fpa-analyst.md) | Orçamento, previsões contínuas (rolling forecasts), revisões de negócios | Planos operacionais anuais, revisões mensais, alocação estratégica de recursos |
+| 🔍 [Investment Researcher](finance/finance-investment-researcher.md) | Due diligence, análise de portfólio, valuation de ativos, equity research | Criação de teses de investimento, avaliação de riscos, estudos de mercado |
+| 🏛️ [Tax Strategist](finance/finance-tax-strategist.md) | Otimização tributária, conformidade multijurisdicional, preços de transferência | Estruturação de entidades, análise de alíquota efetiva (ETR), planejamento tributário estratégico |
 
-### 🎮 Game Development Division
+### 🎮 Divisão de Desenvolvimento de Jogos
 
-Building worlds, systems, and experiences across every major engine.
+Construindo mundos, sistemas e experiências para as principais engines do mercado.
 
-#### Cross-Engine Agents (Engine-Agnostic)
+#### Agentes Multi-Engine (Agnósticos de Engine)
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🎯 [Game Designer](game-development/game-designer.md) | Systems design, GDD authorship, economy balancing, gameplay loops | Designing game mechanics, progression systems, writing design documents |
-| 🗺️ [Level Designer](game-development/level-designer.md) | Layout theory, pacing, encounter design, environmental storytelling | Building levels, designing encounter flow, spatial narrative |
-| 🎨 [Technical Artist](game-development/technical-artist.md) | Shaders, VFX, LOD pipeline, art-to-engine optimization | Bridging art and engineering, shader authoring, performance-safe asset pipelines |
-| 🔊 [Game Audio Engineer](game-development/game-audio-engineer.md) | FMOD/Wwise, adaptive music, spatial audio, audio budgets | Interactive audio systems, dynamic music, audio performance |
-| 📖 [Narrative Designer](game-development/narrative-designer.md) | Story systems, branching dialogue, lore architecture | Writing branching narratives, implementing dialogue systems, world lore |
-| 💰 [Economy Designer](game-development/economy-designer.md) | Virtual currencies, sources/sinks, monetization modeling, inflation control | Designing in-game economies, balancing F2P monetization, live economy tuning |
+| 🎯 [Game Designer](game-development/game-designer.md) | Design de sistemas, criação de GDD, balanceamento de economia, gameplay loops | Criação de mecânicas de jogo, sistemas de progressão, elaboração de documentos de design |
+| 🗺️ [Level Designer](game-development/level-designer.md) | Teoria de layout, ritmo (pacing), design de encontros, narrativa ambiental | Criação de fases, fluxo de combates/encontros, narrativa através do espaço |
+| 🎨 [Technical Artist](game-development/technical-artist.md) | Shaders, VFX, pipeline de LOD, otimização da arte para a engine | Ponte entre arte e programação, criação de shaders, pipelines de assets leves e performáticos |
+| 🔊 [Game Audio Engineer](game-development/game-audio-engineer.md) | FMOD/Wwise, música adaptativa, áudio espacial, limites de processamento sonoro | Sistemas de áudio interativo, trilha sonora dinâmica, desempenho acústico |
+| 📖 [Narrative Designer](game-development/narrative-designer.md) | Sistemas narrativos, diálogos ramificados, arquitetura de lore | Escrita de narrativas não-lineares, implementação de árvores de diálogo, lore do mundo |
+| 💰 [Economy Designer](game-development/economy-designer.md) | Moedas virtuais, geradores/escoadouros (sources/sinks), monetização, controle inflacionário | Design da economia do jogo, equilíbrio de monetização F2P, ajuste de economia em tempo real |
 
 #### Unity
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🏗️ [Unity Architect](game-development/unity/unity-architect.md) | ScriptableObjects, data-driven modularity, DOTS/ECS | Large-scale Unity projects, data-driven system design, ECS performance work |
-| ✨ [Unity Shader Graph Artist](game-development/unity/unity-shader-graph-artist.md) | Shader Graph, HLSL, URP/HDRP, Renderer Features | Custom Unity materials, VFX shaders, post-processing passes |
-| 🌐 [Unity Multiplayer Engineer](game-development/unity/unity-multiplayer-engineer.md) | Netcode for GameObjects, Unity Relay/Lobby, server authority, prediction | Online Unity games, client prediction, Unity Gaming Services integration |
-| 🛠️ [Unity Editor Tool Developer](game-development/unity/unity-editor-tool-developer.md) | EditorWindows, AssetPostprocessors, PropertyDrawers, build validation | Custom Unity Editor tooling, pipeline automation, content validation |
+| 🏗️ [Unity Architect](game-development/unity/unity-architect.md) | ScriptableObjects, modularidade orientada a dados, DOTS/ECS | Projetos Unity de grande escala, arquitetura baseada em dados, performance via ECS |
+| ✨ [Unity Shader Graph Artist](game-development/unity/unity-shader-graph-artist.md) | Shader Graph, HLSL, URP/HDRP, Renderer Features | Materiais personalizados na Unity, shaders para VFX, passes de pós-processamento |
+| 🌐 [Unity Multiplayer Engineer](game-development/unity/unity-multiplayer-engineer.md) | Netcode for GameObjects, Unity Relay/Lobby, autoridade de servidor, predição | Jogos multiplayer na Unity, predição de cliente, integração com serviços da Unity Gaming |
+| 🛠️ [Unity Editor Tool Developer](game-development/unity/unity-editor-tool-developer.md) | EditorWindows, AssetPostprocessors, PropertyDrawers, validação de builds | Ferramental customizado para a Unity Editor, automação de pipeline, validação de conteúdo |
 
 #### Unreal Engine
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| ⚙️ [Unreal Systems Engineer](game-development/unreal-engine/unreal-systems-engineer.md) | C++/Blueprint hybrid, GAS, Nanite constraints, memory management | Complex Unreal gameplay systems, Gameplay Ability System, engine-level C++ |
-| 🎨 [Unreal Technical Artist](game-development/unreal-engine/unreal-technical-artist.md) | Material Editor, Niagara, PCG, Substrate | Unreal materials, Niagara VFX, procedural content generation |
-| 🌐 [Unreal Multiplayer Architect](game-development/unreal-engine/unreal-multiplayer-architect.md) | Actor replication, GameMode/GameState hierarchy, dedicated server | Unreal online games, replication graphs, server authoritative Unreal |
-| 🗺️ [Unreal World Builder](game-development/unreal-engine/unreal-world-builder.md) | World Partition, Landscape, HLOD, LWC | Large open-world Unreal levels, streaming systems, terrain at scale |
+| ⚙️ [Unreal Systems Engineer](game-development/unreal-engine/unreal-systems-engineer.md) | Híbrido C++/Blueprint, GAS, restrições do Nanite, gerenciamento de memória | Sistemas complexos na Unreal, Gameplay Ability System, programação C++ de baixo nível |
+| 🎨 [Unreal Technical Artist](game-development/unreal-engine/unreal-technical-artist.md) | Material Editor, Niagara, PCG, Substrate | Materiais na Unreal, efeitos Niagara VFX, geração procedural de conteúdo (PCG) |
+| 🌐 [Unreal Multiplayer Architect](game-development/unreal-engine/unreal-multiplayer-architect.md) | Replicação de Actors, hierarquia GameMode/GameState, servidores dedicados | Jogos online na Unreal, gráficos de replicação, arquitetura com autoridade de servidor |
+| 🗺️ [Unreal World Builder](game-development/unreal-engine/unreal-world-builder.md) | World Partition, Landscape, HLOD, LWC | Mundos abertos de grande escala, sistemas de streaming, terrenos massivos |
 
 #### Godot
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 📜 [Godot Gameplay Scripter](game-development/godot/godot-gameplay-scripter.md) | GDScript 2.0, signals, composition, static typing | Godot gameplay systems, scene composition, performance-conscious GDScript |
-| 🌐 [Godot Multiplayer Engineer](game-development/godot/godot-multiplayer-engineer.md) | MultiplayerAPI, ENet/WebRTC, RPCs, authority model | Online Godot games, scene replication, server-authoritative Godot |
-| ✨ [Godot Shader Developer](game-development/godot/godot-shader-developer.md) | Godot shading language, VisualShader, RenderingDevice | Custom Godot materials, 2D/3D effects, post-processing, compute shaders |
+| 📜 [Godot Gameplay Scripter](game-development/godot/godot-gameplay-scripter.md) | GDScript 2.0, signals, composição, tipagem estática | Sistemas de gameplay na Godot, composição de cenas, GDScript performático |
+| 🌐 [Godot Multiplayer Engineer](game-development/godot/godot-multiplayer-engineer.md) | MultiplayerAPI, ENet/WebRTC, RPCs, modelo de autoridade | Jogos online na Godot, replicação de cenas, arquitetura com autoridade de servidor |
+| ✨ [Godot Shader Developer](game-development/godot/godot-shader-developer.md) | Linguagem de shaders da Godot, VisualShader, RenderingDevice | Materiais customizados na Godot, efeitos 2D/3D, pós-processamento, compute shaders |
 
 #### Blender
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🧩 [Blender Addon Engineer](game-development/blender/blender-addon-engineer.md) | Blender Python (`bpy`), custom operators/panels, asset validators, exporters, pipeline automation | Building Blender add-ons, asset prep tools, export workflows, and DCC pipeline automation |
+| 🧩 [Blender Addon Engineer](game-development/blender/blender-addon-engineer.md) | Python para Blender (`bpy`), operadores/painéis customizados, validação de assets, exportadores | Criação de add-ons para Blender, preparação de assets, automação de pipelines DCC |
 
 #### Roblox Studio
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| ⚙️ [Roblox Systems Scripter](game-development/roblox-studio/roblox-systems-scripter.md) | Luau, RemoteEvents/Functions, DataStore, server-authoritative module architecture | Building secure Roblox game systems, client-server communication, data persistence |
-| 🎯 [Roblox Experience Designer](game-development/roblox-studio/roblox-experience-designer.md) | Engagement loops, monetization, D1/D7 retention, onboarding flow | Designing Roblox game loops, Game Passes, daily rewards, player retention |
-| 👗 [Roblox Avatar Creator](game-development/roblox-studio/roblox-avatar-creator.md) | UGC pipeline, accessory rigging, Creator Marketplace submission | Roblox UGC items, HumanoidDescription customization, in-experience avatar shops |
+| ⚙️ [Roblox Systems Scripter](game-development/roblox-studio/roblox-systems-scripter.md) | Luau, RemoteEvents/Functions, DataStore, módulos com autoridade de servidor | Sistemas de jogo seguros no Roblox, comunicação cliente-servidor, persistência de dados |
+| 🎯 [Roblox Experience Designer](game-development/roblox-studio/roblox-experience-designer.md) | Loops de engajamento, monetização, retenção D1/D7, fluxo de onboarding | Design de ciclos de jogo no Roblox, Game Passes, recompensas diárias, retenção |
+| 👗 [Roblox Avatar Creator](game-development/roblox-studio/roblox-avatar-creator.md) | Pipeline UGC, rigging de acessórios, submissão ao Creator Marketplace | Itens UGC no Roblox, personalização de HumanoidDescription, lojas virtuais in-game |
 
-### 📚 Academic Division
+### 📚 Divisão Acadêmica
 
-Scholarly rigor for world-building, storytelling, and narrative design.
+Rigor científico e acadêmico para construção de mundos, narrativas e histórias.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🌍 [Anthropologist](academic/academic-anthropologist.md) | Cultural systems, kinship, rituals, belief systems | Designing culturally coherent societies with internal logic |
-| 🌐 [Geographer](academic/academic-geographer.md) | Physical/human geography, climate, cartography | Building geographically coherent worlds with realistic terrain and settlements |
-| 📚 [Historian](academic/academic-historian.md) | Historical analysis, periodization, material culture | Validating historical coherence, enriching settings with authentic period detail |
-| 📜 [Narratologist](academic/academic-narratologist.md) | Narrative theory, story structure, character arcs | Analyzing and improving story structure with established theoretical frameworks |
-| 🧠 [Psychologist](academic/academic-psychologist.md) | Personality theory, motivation, cognitive patterns | Building psychologically credible characters grounded in research |
-| 📊 [Statistician](academic/academic-statistician.md) | Statistical inference & experiment design | Hypothesis testing, causal inference, sampling, rigorous analysis |
+| 🌍 [Anthropologist](academic/academic-anthropologist.md) | Sistemas culturais, parentesco, rituais, sistemas de crenças | Criação de sociedades culturalmente coerentes com lógica interna consistente |
+| 🌐 [Geographer](academic/academic-geographer.md) | Geografia física e humana, clima, cartografia | Criação de mundos geograficamente realistas com clima, relevo e assentamentos plausíveis |
+| 📚 [Historian](academic/academic-historian.md) | Análise histórica, periodização, cultura material | Validação de coerência histórica e enriquecimento de cenários com detalhes autênticos |
+| 📜 [Narratologist](academic/academic-narratologist.md) | Teoria narrativa, estrutura de enredo, arcos de personagem | Análise e aprimoramento de estruturas narrativas através de teorias consolidadas |
+| 🧠 [Psychologist](academic/academic-psychologist.md) | Teorias de personalidade, motivação, padrões cognitivos | Criação de personagens psicologicamente críveis e fundamentados na ciência |
+| 📊 [Statistician](academic/academic-statistician.md) | Inferência estatística e planejamento experimental | Testes de hipóteses, inferência causal, amostragem, análises rigorosas |
 
 ---
 
-### 🌍 GIS Division
+### 🌍 Divisão de SIG (GIS)
 
-Mapping the Earth, analyzing the built world, and extracting intelligence from geospatial data.
+Mapeando a Terra, analisando o espaço construído e extraindo inteligência de dados geoespaciais.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🧠 [Technical Consultant](gis/gis-technical-consultant.md) | GIS strategy, gap analysis, technology roadmaps, digital transformation | Understanding business needs, selecting the right geospatial stack, planning multi-phase GIS programs |
-| 🔧 [Solution Engineer](gis/gis-solution-engineer.md) | Esri + FOSS4G prototype building, PoC delivery, technical feasibility | Building working demos, validating technical approaches, pre-sales support |
-| 🖥️ [GIS Analyst](gis/gis-analyst.md) | Map production, data QC, symbology, layouts, spatial queries | Day-to-day GIS operations, creating publication-ready maps, maintaining data integrity |
-| 📦 [Spatial Data Engineer](gis/gis-spatial-data-engineer.md) | Geospatial ETL, format conversion, CRS reprojection, automated pipelines | Ingesting messy data from any source, building repeatable data transformation pipelines |
-| ⚙️ [Geoprocessing Specialist](gis/gis-geoprocessing-specialist.md) | ArcPy, Python Toolbox (.pyt), Model Builder, batch automation | Automating repetitive GIS workflows, building custom geoprocessing tools |
-| ✅ [GIS QA Engineer](gis/gis-qa-engineer.md) | Topology validation, metadata audit, CRS consistency, accuracy assessment | Quality gates before data publication, compliance verification, data integrity audits |
-| 🤖 [GeoAI/ML Engineer](gis/gis-geoai-ml-engineer.md) | Feature extraction, object detection, semantic segmentation, land cover classification | Extracting buildings/roads/vehicles from imagery, change detection, environmental monitoring |
-| 🏗️ [BIM/GIS Specialist](gis/gis-bim-specialist.md) | Revit/IFC to GIS, indoor mapping, digital twin architecture, facility management | Smart campus, airport digital twins, indoor navigation, building operations |
-| 🏔️ [3D & Scene Developer](gis/gis-3d-scene-developer.md) | Cesium, ArcGIS Scene Viewer, 3D Tiles, point clouds, terrain visualization | 3D city scenes, terrain flyovers, point cloud web viewers, OAuth-gated scene sharing |
-| 📊 [Spatial Data Scientist](gis/gis-spatial-data-scientist.md) | Spatial statistics, clustering, regression, interpolation, point pattern analysis | Hotspot detection, spatial modeling, predictive analytics, research-grade analysis |
-| 🛸 [Drone/Reality Mapping](gis/gis-drone-reality-mapping.md) | Photogrammetry, orthomosaic, DTM/DSM, point cloud classification, 3D mesh | Drone survey processing, reality capture, construction monitoring, environmental mapping |
-| 🌐 [Web GIS Developer](gis/gis-web-gis-developer.md) | MapLibre GL JS, ArcGIS JS API, Leaflet, real-time dashboards, REST APIs | Building interactive web maps, operational dashboards, real-time data visualization |
-| 🎨 [Cartography Designer](gis/gis-cartography-designer.md) | Color theory, typography, basemap design, visual hierarchy, print and web aesthetics | Making maps beautiful and readable, colorblind-safe palettes, professional map layouts |
+| 🧠 [Technical Consultant](gis/gis-technical-consultant.md) | Estratégia de SIG, análise de gaps, roadmaps tecnológicos, transformação digital | Mapeamento de necessidades de negócio, escolha da stack geoespacial, planejamento de programas de SIG em várias fases |
+| 🔧 [Solution Engineer](gis/gis-solution-engineer.md) | Prototipagem em Esri + FOSS4G, entrega de PoCs, viabilidade técnica | Construção de demonstrações funcionais, validação de viabilidade técnica, apoio pré-venda |
+| 🖥️ [GIS Analyst](gis/gis-analyst.md) | Produção cartográfica, controle de qualidade (QC) de dados, simbologia, layouts, consultas espaciais | Operações diárias de SIG, produção de mapas prontos para publicação, integridade de dados |
+| 📦 [Spatial Data Engineer](gis/gis-spatial-data-engineer.md) | ETL geoespacial, conversão de formatos, reprojeção de CRS, pipelines automatizados | Ingestão de dados brutos e heterogêneos, criação de pipelines automatizados e repetíveis |
+| ⚙️ [Geoprocessing Specialist](gis/gis-geoprocessing-specialist.md) | ArcPy, Python Toolbox (.pyt), Model Builder, automação em lote | Automação de rotinas em SIG, construção de caixas de ferramentas personalizadas |
+| ✅ [GIS QA Engineer](gis/gis-qa-engineer.md) | Validação topológica, auditoria de metadados, consistência de CRS, avaliação de acurácia | Portão de qualidade antes de publicar dados, conformidade e integridade geoespacial |
+| 🤖 [GeoAI/ML Engineer](gis/gis-geoai-ml-engineer.md) | Extração de feições, detecção de objetos, segmentação semântica, classificação de uso do solo | Extração de edificações/vias/veículos a partir de imagens de satélite, detecção de mudanças e monitoramento ambiental |
+| 🏗️ [BIM/GIS Specialist](gis/gis-bim-specialist.md) | Integração Revit/IFC com SIG, mapeamento interno (indoors), gêmeos digitais | Campi inteligentes, gêmeos digitais de aeroportos, navegação interna, gestão predial |
+| 🏔️ [3D & Scene Developer](gis/gis-3d-scene-developer.md) | Cesium, ArcGIS Scene Viewer, 3D Tiles, nuvens de pontos, visualização de relevo | Cenas urbanas 3D, sobrevoos de terreno, visualizadores web de nuvens de pontos |
+| 📊 [Spatial Data Scientist](gis/gis-spatial-data-scientist.md) | Estatística espacial, clustering, regressão, interpolação, análise de padrões de pontos | Detecção de áreas críticas (hotspots), modelagem espacial, análise preditiva |
+| 🛸 [Drone/Reality Mapping](gis/gis-drone-reality-mapping.md) | Fotogrametria, ortomosaicos, MTD/MDS, classificação de nuvens de pontos, malhas 3D | Processamento de imagens de drones, captura de realidade, monitoramento de obras |
+| 🌐 [Web GIS Developer](gis/gis-web-gis-developer.md) | MapLibre GL JS, ArcGIS JS API, Leaflet, dashboards em tempo real, APIs REST | Desenvolvimento de mapas web interativos, painéis operacionais, visualização de dados em tempo real |
+| 🎨 [Cartography Designer](gis/gis-cartography-designer.md) | Teoria das cores, tipografia, design de basemaps, hierarquia visual, estética para impresso e web | Criação de mapas elegantes e legíveis, paletas com acessibilidade para daltônicos, diagramação profissional |
 
 ---
 
-### 🏥 Healthcare Division
+### 🏥 Divisão de Saúde
 
-Building AI agents for regulated clinical and sovereign health contexts.
+Desenvolvimento de agentes de IA para contextos clínicos regulados e sistemas públicos de saúde.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🩺 [Clinical Evidence Agent](healthcare/healthcare-clinical-evidence-agent.md) | Evidence standards, validated vs unvalidated claims, diagnostic authority boundaries | Making clinical claims credibly without overstepping into diagnostic authority |
-| 🌍 [Sovereign Health Systems Agent](healthcare/healthcare-sovereign-health-systems-agent.md) | Government health mandates, UHC policy, emerging market deployment | Health tech teams operating at the intersection of national health infrastructure and sovereign health policy |
-| 🧭 [Healthcare Innovation Strategist](healthcare/healthcare-innovation-strategist.md) | Narrative architecture for healthcare founders across investor, regulatory, sovereign, and clinical audiences | Healthcare founders who need to translate clinical and financial complexity into language that moves capital and builds trust |
+| 🩺 [Clinical Evidence Agent](healthcare/healthcare-clinical-evidence-agent.md) | Padrões de evidência, alegações validadas vs não validadas, limites de autoridade diagnóstica | Elaboração de alegações clínicas críveis sem extrapolar limites diagnósticos regulamentados |
+| 🌍 [Sovereign Health Systems Agent](healthcare/healthcare-sovereign-health-systems-agent.md) | Mandatos governamentais de saúde, políticas de cobertura universal, implementação em países emergentes | Equipes de healthtech que operam na intersecção de infraestruturas nacionais de saúde pública |
+| 🧭 [Healthcare Innovation Strategist](healthcare/healthcare-innovation-strategist.md) | Narrativas para fundadores de healthtech perante investidores, reguladores e clínicos | Fundadores na área da saúde que precisam traduzir complexidades clínicas e financeiras para atrair capital e confiança |
 
 ---
 
-### 🔍 Research Division
+### 🔍 Divisão de Pesquisa
 
-Finding, evaluating, and synthesizing existing evidence rather than generating new primary data.
+Encontrando, avaliando e sintetizando evidências existentes em vez de gerar dados primários novos.
 
-| Agent | Specialty | When to Use |
+| Agente | Especialidade | Quando Usar |
 |-------|-----------|-------------|
-| 🔍 [Research Synthesist](research/research-synthesist.md) | Literature review, source evaluation, citation tracing, evidence synthesis | Turning a scattered pile of sources into a structured, honestly-weighted map of what the evidence supports |
+| 🔍 [Research Synthesist](research/research-synthesist.md) | Revisão bibliográfica, avaliação crítica de fontes, rastreamento de citações, síntese de evidências | Transformar um conjunto disperso de fontes em um panorama estruturado e bem fundamentado sobre o que a literatura comprova |
 
 ---
 
-## 🎯 Real-World Use Cases
+## 🎯 Casos de Uso Reais
 
-### Scenario 1: Building a Startup MVP
+### Cenário 1: Construindo o MVP de uma Startup
 
-**Your Team**:
-1. 🎨 **Frontend Developer** - Build the React app
-2. 🏗️ **Backend Architect** - Design the API and database
-3. 🚀 **Growth Hacker** - Plan user acquisition
-4. ⚡ **Rapid Prototyper** - Fast iteration cycles
-5. 🔍 **Reality Checker** - Ensure quality before launch
+**Sua Equipe**:
+1. 🎨 **Frontend Developer** — Desenvolver a aplicação React
+2. 🏗️ **Backend Architect** — Projetar a API e o banco de dados
+3. 🚀 **Growth Hacker** — Planejar a estratégia de aquisição de usuários
+4. ⚡ **Rapid Prototyper** — Ciclos rápidos de iteração
+5. 🔍 **Reality Checker** — Garantir a qualidade antes do lançamento
 
-**Result**: Ship faster with specialized expertise at every stage.
-
----
-
-### Scenario 2: Marketing Campaign Launch
-
-**Your Team**:
-1. 📝 **Content Creator** - Develop campaign content
-2. 🐦 **Twitter Engager** - Twitter strategy and execution
-3. 📸 **Instagram Curator** - Visual content and stories
-4. 🤝 **Reddit Community Builder** - Authentic community engagement
-5. 📊 **Analytics Reporter** - Track and optimize performance
-
-**Result**: Multi-channel coordinated campaign with platform-specific expertise.
+**Resultado**: Entregue mais rápido com especialistas cuidando de cada etapa crítica.
 
 ---
 
-### Scenario 3: Enterprise Feature Development
+### Cenário 2: Lançamento de Campanha de Marketing
 
-**Your Team**:
-1. 👔 **Senior Project Manager** - Scope and task planning
-2. 💎 **Senior Developer** - Complex implementation
-3. 🎨 **UI Designer** - Design system and components
-4. 🧪 **Experiment Tracker** - A/B test planning
-5. 📸 **Evidence Collector** - Quality verification
-6. 🔍 **Reality Checker** - Production readiness
+**Sua Equipe**:
+1. 📝 **Content Creator** — Desenvolver o conteúdo das campanhas
+2. 🐦 **Twitter Engager** — Estratégia e execução no Twitter/X
+3. 📸 **Instagram Curator** — Conteúdo visual e stories
+4. 🤝 **Reddit Community Builder** — Engajamento comunitário autêntico
+5. 📊 **Analytics Reporter** — Rastrear e otimizar o desempenho das métricas
 
-**Result**: Enterprise-grade delivery with quality gates and documentation.
-
----
-
-### Scenario 4: Paid Media Account Takeover
-
-**Your Team**:
-
-1. 📋 **Paid Media Auditor** - Comprehensive account assessment
-2. 📡 **Tracking & Measurement Specialist** - Verify conversion tracking accuracy
-3. 💰 **PPC Campaign Strategist** - Redesign account architecture
-4. 🔍 **Search Query Analyst** - Clean up wasted spend from search terms
-5. ✍️ **Ad Creative Strategist** - Refresh all ad copy and extensions
-6. 📊 **Analytics Reporter** (Support Division) - Build reporting dashboards
-
-**Result**: Systematic account takeover with tracking verified, waste eliminated, structure optimized, and creative refreshed — all within the first 30 days.
+**Resultado**: Campanha coordenada multicanal com domínio das particularidades de cada plataforma.
 
 ---
 
-### Scenario 5: Full Agency Product Discovery
+### Cenário 3: Desenvolvimento de Recursos Corporativos
 
-**Your Team**: All 8 divisions working in parallel on a single mission.
+**Sua Equipe**:
+1. 👔 **Senior Project Manager** — Escopo e planejamento de tarefas
+2. 💎 **Senior Developer** — Implementação técnica complexa
+3. 🎨 **UI Designer** — Design system e componentes visuais
+4. 🧪 **Experiment Tracker** — Planejamento de testes A/B
+5. 📸 **Evidence Collector** — Verificação e evidência de qualidade
+6. 🔍 **Reality Checker** — Validação de prontidão para produção
 
-See the **[Nexus Spatial Discovery Exercise](examples/nexus-spatial-discovery.md)** -- a complete example where 8 agents (Product Trend Researcher, Backend Architect, Brand Guardian, Growth Hacker, Support Responder, UX Researcher, Project Shepherd, and XR Interface Architect) were deployed simultaneously to evaluate a software opportunity and produce a unified product plan covering market validation, technical architecture, brand strategy, go-to-market, support systems, UX research, project execution, and spatial UI design.
-
-**Result**: Comprehensive, cross-functional product blueprint produced in a single session. [More examples](examples/).
-
----
-
-### Scenario 6: Smart Campus Digital Twin
-
-**Your Team**:
-
-1. 🧠 **Technical Consultant** - Define the digital twin strategy: BIM for buildings, GIS for campus, IoT for real-time
-2. 🏗️ **BIM/GIS Specialist** - Convert Revit building models to GIS scene layers, design indoor floor plans
-3. 🛸 **Drone/Reality Mapping** - Fly the campus, generate orthomosaic and 3D mesh for context
-4. 🌐 **Web GIS Developer** - Build the campus dashboard with MapLibre, building layer, and room finder
-5. 🏔️ **3D & Scene Developer** - Create immersive 3D scene with terrain, buildings, and flyover tour
-6. 🤖 **GeoAI/ML Engineer** - Extract building footprints and tree canopy from drone imagery
-7. ✅ **GIS QA Engineer** - Validate data accuracy, check topology, verify CRS consistency
-
-**Result**: A campus digital twin that combines BIM detail, drone reality capture, 3D visualization, and web accessibility — delivered by coordinated specialists in a single pipeline.
+**Resultado**: Entrega de nível corporativo com controle rigoroso de qualidade e documentação.
 
 ---
 
-## 🤝 Contributing
+### Cenário 4: Assunção e Reestruturação de Conta de Mídia Paga
 
-We welcome contributions! Here's how you can help:
+**Sua Equipe**:
 
-### Add a New Agent
+1. 📋 **Paid Media Auditor** — Avaliação completa do histórico da conta
+2. 📡 **Tracking & Measurement Specialist** — Verificação e correção do rastreamento de conversões
+3. 💰 **PPC Campaign Strategist** — Redesenho da estrutura das campanhas
+4. 🔍 **Search Query Analyst** — Eliminação de verba gasta em termos irrelevantes
+5. ✍️ **Ad Creative Strategist** — Renovação de anúncios e extensões
+6. 📊 **Analytics Reporter** (Divisão de Suporte) — Criação de dashboards de desempenho
 
-1. Fork the repository
-2. Create a new agent file in the appropriate category
-3. Follow the agent template structure:
-   - Frontmatter with name, description, color
-   - Identity & Memory section
-   - Core Mission
-   - Critical Rules (domain-specific)
-   - Technical Deliverables with examples
-   - Workflow Process
-   - Success Metrics
-4. Submit a PR with your agent
-
-### Improve Existing Agents
-
-- Add real-world examples
-- Enhance code samples
-- Update success metrics
-- Improve workflows
-
-### Share Your Success Stories
-
-Have you used these agents successfully? Share your story in the [Discussions](https://github.com/msitarzewski/agency-agents/discussions)!
+**Resultado**: Reestruturação metódica da conta com rastreamento verificado, desperdício zerado e novos criativos — tudo dentro dos primeiros 30 dias.
 
 ---
 
-## 📖 Agent Design Philosophy
+### Cenário 5: Discovery Completo de Produto na Agência
 
-Each agent is designed with:
+**Sua Equipe**: 8 divisões trabalhando em paralelo em uma única missão.
 
-1. **🎭 Strong Personality**: Not generic templates - real character and voice
-2. **📋 Clear Deliverables**: Concrete outputs, not vague guidance
-3. **✅ Success Metrics**: Measurable outcomes and quality standards
-4. **🔄 Proven Workflows**: Step-by-step processes that work
-5. **💡 Learning Memory**: Pattern recognition and continuous improvement
+Veja o exemplo em **[Nexus Spatial Discovery Exercise](examples/nexus-spatial-discovery.md)** — um exercício onde 8 agentes (Product Trend Researcher, Backend Architect, Brand Guardian, Growth Hacker, Support Responder, UX Researcher, Project Shepherd e XR Interface Architect) foram acionados simultaneamente para avaliar uma oportunidade de mercado e gerar um plano de produto unificado cobrindo viabilidade técnica, validação de mercado, estratégia de marca, go-to-market, suporte, UX e design espacial.
+
+**Resultado**: Blueprint completo e multidisciplinar de produto produzido em uma única sessão. [Veja mais exemplos](examples/).
 
 ---
 
-## 🎁 What Makes This Special?
+### Cenário 6: Gêmeo Digital de Campus Inteligente
 
-### Unlike Generic AI Prompts:
-- ❌ Generic "Act as a developer" prompts
-- ✅ Deep specialization with personality and process
+**Sua Equipe**:
 
-### Unlike Prompt Libraries:
-- ❌ One-off prompt collections
-- ✅ Comprehensive agent systems with workflows and deliverables
+1. 🧠 **Technical Consultant** — Definir a estratégia: BIM para prédios, SIG para o campus, IoT para tempo real
+2. 🏗️ **BIM/GIS Specialist** — Converter modelos Revit para camadas de cena SIG e plantas baixas internas
+3. 🛸 **Drone/Reality Mapping** — Mapear o campus via drone e gerar ortomosaicos e malha 3D de contexto
+4. 🌐 **Web GIS Developer** — Construir o dashboard do campus com MapLibre e buscador de salas
+5. 🏔️ **3D & Scene Developer** — Criar a cena 3D interativa com relevo, prédios e tour virtual
+6. 🤖 **GeoAI/ML Engineer** — Extrair perímetros de construções e cobertura vegetal das imagens
+7. ✅ **GIS QA Engineer** — Validar topologia, precisão posicional e consistência de CRS
 
-### Unlike AI Tools:
-- ❌ Black box tools you can't customize
-- ✅ Transparent, forkable, adaptable agent personalities
+**Resultado**: Um gêmeo digital de campus integrando detalhes BIM, realidade capturada por drones, visualização 3D e acesso via web — executado em um pipeline unificado.
 
 ---
 
-## 🎨 Agent Personality Highlights
+## 🤝 Como Contribuir
 
-> "I don't just test your code - I default to finding 3-5 issues and require visual proof for everything."
+Contribuições são muito bem-vindas! Veja como participar:
+
+### Adicionar um Novo Agente
+
+1. Faça um Fork do repositório
+2. Crie um novo arquivo de agente dentro da pasta da divisão correspondente
+3. Siga a estrutura padrão de template de agente:
+   - Frontmatter com nome, descrição e cor
+   - Seção de Identidade e Memória
+   - Missão Principal (Core Mission)
+   - Regras Críticas (do domínio)
+   - Entregáveis Técnicos com exemplos de código
+   - Processo do Fluxo de Trabalho (Workflow Process)
+   - Métricas de Sucesso
+4. Abra um Pull Request com o seu agente
+
+### Aprimorar Agentes Existentes
+
+- Adicione exemplos do mundo real
+- Melhore os exemplos de código
+- Atualize as métricas de sucesso
+- Aperfeiçoe os fluxos de trabalho
+
+### Compartilhe seus Casos de Sucesso
+
+Já usou estes agentes em seus projetos? Conte sua experiência na aba [Discussions](https://github.com/msitarzewski/agency-agents/discussions)!
+
+---
+
+## 📖 Filosofia de Design dos Agentes
+
+Cada agente é construído sobre 5 pilares:
+
+1. **🎭 Personalidade Marcante**: Nada de templates genéricos — voz e postura autênticas
+2. **📋 Entregáveis Claros**: Resultados concretos, não orientações vagas
+3. **✅ Métricas de Sucesso**: Padrões de qualidade claros e objetivos mensuráveis
+4. **🔄 Fluxos Comprovados**: Processos passo a passo que funcionam na prática
+5. **💡 Memória de Aprendizado**: Reconhecimento de padrões e busca contínua por melhoria
+
+---
+
+## 🎁 O que Torna Isso Especial?
+
+### Diferente de Prompts Genéricos de IA:
+- ❌ Prompts genéricos como "Aja como um desenvolvedor"
+- ✅ Especialização profunda com postura, processo e contexto técnico
+
+### Diferente de Bibliotecas de Prompts Tradicionais:
+- ❌ Coleções isoladas de perguntas e respostas rápidas
+- ✅ Sistemas completos de agentes com fluxos, regras e entregáveis estruturados
+
+### Diferente de Ferramentas de IA Proprietárias:
+- ❌ Ferramentas "caixa-preta" sem possibilidade de personalização
+- ✅ Personas abertas, transparentes, adaptáveis e fáceis de versionar via Git
+
+---
+
+## 🎨 Destaques de Frases dos Agentes
+
+> "Eu não apenas testo seu código — meu padrão é encontrar de 3 a 5 problemas e exigir prova visual para cada um."
 >
-> -- **Evidence Collector** (Testing Division)
+> — **Evidence Collector** (Divisão de Testes)
 
-> "You're not marketing on Reddit - you're becoming a valued community member who happens to represent a brand."
+> "Você não está fazendo marketing no Reddit — você está se tornando um membro valioso da comunidade que, por acaso, representa uma marca."
 >
-> -- **Reddit Community Builder** (Marketing Division)
+> — **Reddit Community Builder** (Divisão de Marketing)
 
-> "Every playful element must serve a functional or emotional purpose. Design delight that enhances rather than distracts."
+> "Cada elemento lúdico precisa ter um propósito funcional ou emocional. Crie encantamento que some à experiência, em vez de distrair."
 >
-> -- **Whimsy Injector** (Design Division)
+> — **Whimsy Injector** (Divisão de Design)
 
-> "Let me add a celebration animation that reduces task completion anxiety by 40%"
+> "Deixe-me adicionar uma animação comemorativa aqui; isso reduz a ansiedade de conclusão de tarefa em 40%."
 >
-> -- **Whimsy Injector** (during a UX review)
+> — **Whimsy Injector** (durante uma revisão de UX)
 
 ---
 
-## 📊 Stats
+## 📊 Números do Projeto
 
-- 🎭 **230+ Specialized Agents** across every division
-- 📝 **10,000+ lines** of personality, process, and code examples
-- ⏱️ **Months of iteration** from real-world usage
-- 🌟 **Battle-tested** in production environments
-- 💬 **50+ requests** in first 12 hours on Reddit
-
----
-
-## 🔌 Multi-Tool Integrations
-
-The Agency works natively with Claude Code, and ships conversion + install scripts so you can use the same agents across every major agentic coding tool.
-
-### Supported Tools
-
-- **[Claude Code](https://claude.ai/code)** — native `.md` agents, no conversion needed → `~/.claude/agents/`
-- **[GitHub Copilot](https://github.com/copilot)** — native `.md` agents, no conversion needed → `~/.github/agents/` + `~/.copilot/agents/`
-- **[Antigravity](https://github.com/google-gemini/antigravity)** — `SKILL.md` per agent → `~/.gemini/config/skills/`
-- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** -- `.md` agent files -> `~/.gemini/agents/`
-- **[OpenCode](https://opencode.ai)** — `.md` agent files → `.opencode/agents/`
-- **[Cursor](https://cursor.sh)** — `.mdc` rule files → `.cursor/rules/`
-- **[Aider](https://aider.chat)** — single `CONVENTIONS.md` → `./CONVENTIONS.md`
-- **[Windsurf](https://codeium.com/windsurf)** — single `.windsurfrules` → `./.windsurfrules`
-- **[OpenClaw](https://github.com/openclaw/openclaw)** — `SOUL.md` + `AGENTS.md` + `IDENTITY.md` per agent
-- **[Qwen Code](https://github.com/QwenLM/qwen-code)** — `.md` SubAgent files → `~/.qwen/agents/`
-- **[Kimi Code](https://github.com/MoonshotAI/kimi-cli)** — YAML agent specs → `~/.config/kimi/agents/`
-- **[Codex](https://developers.openai.com/codex/overview)** — TOML custom agents → `~/.codex/agents/`
-- **Osaurus** -- `SKILL.md` skills -> `~/.osaurus/skills/`
-- **[Hermes](integrations/hermes/README.md)** -- lazy-router plugin -> `~/.hermes/plugins/`
+- 🎭 **Mais de 230 Agentes Especializados** em diversas divisões
+- 📝 **Mais de 10.000 linhas** de personalidades, processos e exemplos de código
+- ⏱️ **Meses de iteração contínua** a partir de casos de uso reais
+- 🌟 **Testado em batalha** em ambientes de produção
+- 💬 **Mais de 50 solicitações** logo nas primeiras 12 horas no Reddit
 
 ---
 
-### ⚡ Quick Install
+## 🔌 Integrações Multi-Ferramenta
 
-**Step 1 -- Generate integration files:**
+O The Agency funciona nativamente com o Claude Code e inclui scripts de conversão e instalação para que você possa usar os mesmos agentes nas principais ferramentas de programação com agentes de IA.
+
+### Ferramentas Suportadas
+
+- **[Claude Code](https://claude.ai/code)** — agentes `.md` nativos, sem necessidade de conversão → `~/.claude/agents/`
+- **[GitHub Copilot](https://github.com/copilot)** — agentes `.md` nativos, sem necessidade de conversão → `~/.github/agents/` + `~/.copilot/agents/`
+- **[Antigravity](https://github.com/google-gemini/antigravity)** — `SKILL.md` por agente → `~/.gemini/config/skills/`
+- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** — arquivos de agentes `.md` → `~/.gemini/agents/`
+- **[OpenCode](https://opencode.ai)** — arquivos de agentes `.md` → `.opencode/agents/`
+- **[Cursor](https://cursor.sh)** — arquivos de regra `.mdc` → `.cursor/rules/`
+- **[Aider](https://aider.chat)** — arquivo único `CONVENTIONS.md` → `./CONVENTIONS.md`
+- **[Windsurf](https://codeium.com/windsurf)** — arquivo único `.windsurfrules` → `./.windsurfrules`
+- **[OpenClaw](https://github.com/openclaw/openclaw)** — `SOUL.md` + `AGENTS.md` + `IDENTITY.md` por agente
+- **[Qwen Code](https://github.com/QwenLM/qwen-code)** — arquivos de SubAgentes `.md` → `~/.qwen/agents/`
+- **[Kimi Code](https://github.com/MoonshotAI/kimi-cli)** — especificações de agentes em YAML → `~/.config/kimi/agents/`
+- **[Codex](https://developers.openai.com/codex/overview)** — agentes personalizados em TOML → `~/.codex/agents/`
+- **Osaurus** — skills em `SKILL.md` → `~/.osaurus/skills/`
+- **[Hermes](integrations/hermes/README.md)** — plugin de roteamento inteligente → `~/.hermes/plugins/`
+
+---
+
+### ⚡ Instalação Rápida
+
+**Passo 1 -- Gerar os arquivos de integração:**
 ```bash
 ./scripts/convert.sh
-# Faster (parallel, output order may vary): ./scripts/convert.sh --parallel
+# Mais rápido (paralelo, a ordem de saída pode variar): ./scripts/convert.sh --parallel
 ```
 
-**Step 2 -- Install (interactive, auto-detects your tools):**
+**Passo 2 -- Instalar (interativo, auto-detecta suas ferramentas):**
 ```bash
 ./scripts/install.sh
-# Faster (parallel, output order may vary): ./scripts/install.sh --no-interactive --parallel
+# Mais rápido (paralelo, a ordem de saída pode variar): ./scripts/install.sh --no-interactive --parallel
 ```
 
-The installer scans your system for installed tools, shows a checkbox UI, and lets you pick exactly what to install:
+O instalador escaneia o sistema, exibe uma lista de seleção e permite escolher exatamente o que instalar:
 
 ```
   +------------------------------------------------+
@@ -776,11 +780,11 @@ The installer scans your system for installed tools, shows a checkbox UI, and le
   [ ] 13)  [ ]  Osaurus         (~/.osaurus/skills)
   [ ] 14)  [ ]  Hermes          (~/.hermes/plugins)
 
-  [1-14] toggle   [a] all   [n] none   [d] detected
-  [Enter] install   [q] quit
+  [1-14] marcar/desmarcar   [a] todos   [n] nenhum   [d] detectados
+  [Enter] instalar   [q] sair
 ```
 
-**Or install a specific tool directly:**
+**Ou instale diretamente para uma ferramenta específica:**
 ```bash
 ./scripts/install.sh --tool cursor
 ./scripts/install.sh --tool opencode
@@ -791,342 +795,342 @@ The installer scans your system for installed tools, shows a checkbox UI, and le
 ./scripts/install.sh --tool hermes
 ```
 
-**Non-interactive (CI/scripts):**
+**Modo não-interativo (para CI / scripts automatizados):**
 ```bash
 ./scripts/install.sh --no-interactive --tool all
 ```
 
-**Faster runs (parallel)** — On multi-core machines, use `--parallel` so each tool is processed in parallel. Output order across tools is non-deterministic. Works with both interactive and non-interactive install: e.g. `./scripts/install.sh --interactive --parallel` (pick tools, then install in parallel) or `./scripts/install.sh --no-interactive --parallel`. Job count defaults to `nproc` (Linux), `sysctl -n hw.ncpu` (macOS), or 4; override with `--jobs N`.
+**Execuções mais rápidas (paralelo)** — Em máquinas com múltiplos núcleos de processamento, utilize `--parallel` para que cada ferramenta seja processada em paralelo. Funciona tanto no modo interativo quanto no modo automatizado: por exemplo, `./scripts/install.sh --interactive --parallel` (selecione as ferramentas e instale em paralelo) ou `./scripts/install.sh --no-interactive --parallel`. O número de jobs padrão utiliza `nproc` (Linux), `sysctl -n hw.ncpu` (macOS) ou 4; configure manualmente com `--jobs N`.
 
 ```bash
-./scripts/convert.sh --parallel                    # convert all tools in parallel
-./scripts/convert.sh --parallel --jobs 8           # cap parallel jobs
-./scripts/install.sh --no-interactive --parallel   # install all detected tools in parallel
-./scripts/install.sh --interactive --parallel      # pick tools, then install in parallel
+./scripts/convert.sh --parallel                    # converter todas as ferramentas em paralelo
+./scripts/convert.sh --parallel --jobs 8           # limitar a 8 jobs paralelos
+./scripts/install.sh --no-interactive --parallel   # instalar em todas as ferramentas detectadas em paralelo
+./scripts/install.sh --interactive --parallel      # escolher as ferramentas e instalar em paralelo
 ./scripts/install.sh --no-interactive --parallel --jobs 4
 ```
 
 ---
 
-### Tool-Specific Instructions
+### Instruções Específicas por Ferramenta
 
 <details>
 <summary><strong>Claude Code</strong></summary>
 
-Agents are copied directly from the repo into `~/.claude/agents/` -- no conversion needed.
+Os agentes são copiados diretamente do repositório para `~/.claude/agents/` — sem necessidade de conversão.
 
 ```bash
 ./scripts/install.sh --tool claude-code
 ```
 
-Then activate in Claude Code:
+Depois, basta chamar no Claude Code:
 ```
 Use the Frontend Developer agent to review this component.
 ```
 
-See [integrations/claude-code/README.md](integrations/claude-code/README.md) for details.
+Veja mais detalhes em [integrations/claude-code/README.md](integrations/claude-code/README.md).
 </details>
 
 <details>
 <summary><strong>GitHub Copilot</strong></summary>
 
-Agents are copied directly from the repo into `~/.github/agents/` and `~/.copilot/agents/` -- no conversion needed.
+Os agentes são copiados diretamente do repositório para `~/.github/agents/` e `~/.copilot/agents/` — sem necessidade de conversão.
 
 ```bash
 ./scripts/install.sh --tool copilot
 ```
 
-Then activate in GitHub Copilot:
+Depois, basta chamar no GitHub Copilot:
 ```
 Use the Frontend Developer agent to review this component.
 ```
 
-See [integrations/github-copilot/README.md](integrations/github-copilot/README.md) for details.
+Veja mais detalhes em [integrations/github-copilot/README.md](integrations/github-copilot/README.md).
 </details>
 
 <details>
 <summary><strong>Antigravity (Gemini)</strong></summary>
 
-Each agent becomes a skill in `~/.gemini/config/skills/agency-<slug>/`.
+Cada agente vira uma skill em `~/.gemini/config/skills/agency-<slug>/`.
 
 ```bash
 ./scripts/install.sh --tool antigravity
 ```
 
-Activate in Gemini with Antigravity:
+Ative no Gemini com Antigravity:
 ```
 @agency-frontend-developer review this React component
 ```
 
-See [integrations/antigravity/README.md](integrations/antigravity/README.md) for details.
+Veja mais detalhes em [integrations/antigravity/README.md](integrations/antigravity/README.md).
 </details>
 
 <details>
 <summary><strong>Gemini CLI</strong></summary>
 
-Installs as Gemini CLI subagents.
-On a fresh clone, generate the Gemini agent files before running the installer.
+Instala como subagentes do Gemini CLI.
+Ao clonar o repositório pela primeira vez, gere os arquivos de agente do Gemini antes de rodar o instalador:
 
 ```bash
 ./scripts/convert.sh --tool gemini-cli
 ./scripts/install.sh --tool gemini-cli
 ```
 
-See [integrations/gemini-cli/README.md](integrations/gemini-cli/README.md) for details.
+Veja mais detalhes em [integrations/gemini-cli/README.md](integrations/gemini-cli/README.md).
 </details>
 
 <details>
 <summary><strong>OpenCode</strong></summary>
 
-Agents are placed in `.opencode/agents/` in your project root (project-scoped).
+Os agentes são colocados na pasta `.opencode/agents/` na raiz do seu projeto (escopo por projeto).
 
 ```bash
-cd /your/project
-/path/to/agency-agents/scripts/install.sh --tool opencode
+cd /seu/projeto
+/caminho/para/agency-agents/scripts/install.sh --tool opencode
 ```
 
-Or install globally:
+Ou instale globalmente:
 ```bash
 mkdir -p ~/.config/opencode/agents
 cp integrations/opencode/agents/*.md ~/.config/opencode/agents/
 ```
 
-Activate in OpenCode:
+Ative no OpenCode:
 ```
 @backend-architect design this API.
 ```
 
-See [integrations/opencode/README.md](integrations/opencode/README.md) for details.
+Veja mais detalhes em [integrations/opencode/README.md](integrations/opencode/README.md).
 </details>
 
 <details>
 <summary><strong>Cursor</strong></summary>
 
-Each agent becomes a `.mdc` rule file in `.cursor/rules/` of your project.
+Cada agente se torna um arquivo de regra `.mdc` em `.cursor/rules/` dentro do seu projeto.
 
 ```bash
-cd /your/project
-/path/to/agency-agents/scripts/install.sh --tool cursor
+cd /seu/projeto
+/caminho/para/agency-agents/scripts/install.sh --tool cursor
 ```
 
-Rules are auto-applied when Cursor detects them in the project. Reference them explicitly:
+As regras são aplicadas automaticamente quando o Cursor as detecta. Você pode referenciá-las explicitamente:
 ```
 Use the @security-engineer rules to review this code.
 ```
 
-See [integrations/cursor/README.md](integrations/cursor/README.md) for details.
+Veja mais detalhes em [integrations/cursor/README.md](integrations/cursor/README.md).
 </details>
 
 <details>
 <summary><strong>Aider</strong></summary>
 
-All agents are compiled into a single `CONVENTIONS.md` file that Aider reads automatically.
+Todos os agentes são compilados em um único arquivo `CONVENTIONS.md`, lido automaticamente pelo Aider.
 
 ```bash
-cd /your/project
-/path/to/agency-agents/scripts/install.sh --tool aider
+cd /seu/projeto
+/caminho/para/agency-agents/scripts/install.sh --tool aider
 ```
 
-Then reference agents in your Aider session:
+Depois, mencione o agente na sessão do Aider:
 ```
 Use the Frontend Developer agent to refactor this component.
 ```
 
-See [integrations/aider/README.md](integrations/aider/README.md) for details.
+Veja mais detalhes em [integrations/aider/README.md](integrations/aider/README.md).
 </details>
 
 <details>
 <summary><strong>Windsurf</strong></summary>
 
-All agents are compiled into `.windsurfrules` in your project root.
+Todos os agentes são compilados no arquivo `.windsurfrules` na raiz do projeto.
 
 ```bash
-cd /your/project
-/path/to/agency-agents/scripts/install.sh --tool windsurf
+cd /seu/projeto
+/caminho/para/agency-agents/scripts/install.sh --tool windsurf
 ```
 
-Reference agents in Windsurf's Cascade:
+Mencione o agente no Cascade do Windsurf:
 ```
 Use the Reality Checker agent to verify this is production ready.
 ```
 
-See [integrations/windsurf/README.md](integrations/windsurf/README.md) for details.
+Veja mais detalhes em [integrations/windsurf/README.md](integrations/windsurf/README.md).
 </details>
 
 <details>
 <summary><strong>OpenClaw</strong></summary>
 
-Each agent becomes a workspace with `SOUL.md`, `AGENTS.md`, and `IDENTITY.md` in `~/.openclaw/agency-agents/`.
+Cada agente se torna um workspace com `SOUL.md`, `AGENTS.md` e `IDENTITY.md` em `~/.openclaw/agency-agents/`.
 
 ```bash
 ./scripts/convert.sh --tool openclaw
 ./scripts/install.sh --tool openclaw
 ```
 
-If the `openclaw` CLI is available, the installer registers each workspace automatically.
-Run `openclaw gateway restart` after installation so the new agents are activated.
+Se a CLI do `openclaw` estiver disponível, o instalador registrará cada workspace automaticamente.
+Execute `openclaw gateway restart` após a instalação para ativar os novos agentes.
 
-See [integrations/openclaw/README.md](integrations/openclaw/README.md) for details.
+Veja mais detalhes em [integrations/openclaw/README.md](integrations/openclaw/README.md).
 
 </details>
 
 <details>
 <summary><strong>Qwen Code</strong></summary>
 
-SubAgents are installed to `.qwen/agents/` in your project root (project-scoped).
+Os SubAgentes são instalados em `.qwen/agents/` na raiz do projeto (escopo por projeto).
 
 ```bash
-# Convert and install (run from your project root)
-cd /your/project
+# Converter e instalar (execute a partir da raiz do seu projeto)
+cd /seu/projeto
 ./scripts/convert.sh --tool qwen
 ./scripts/install.sh --tool qwen
 ```
 
-**Usage in Qwen Code:**
-- Reference by name: `Use the frontend-developer agent to review this component`
-- Or let Qwen auto-delegate based on task context
-- Manage via `/agents` command in interactive mode
+**Como usar no Qwen Code:**
+- Referencie pelo nome: `Use the frontend-developer agent to review this component`
+- Ou deixe o Qwen delegar automaticamente com base no contexto da tarefa
+- Gerencie via comando `/agents` no modo interativo
 
-> 📚 [Qwen SubAgents Docs](https://qwenlm.github.io/qwen-code-docs/en/users/features/sub-agents/)
+> 📚 [Documentação de SubAgentes do Qwen](https://qwenlm.github.io/qwen-code-docs/en/users/features/sub-agents/)
 
 </details>
 
 <details>
 <summary><strong>Kimi Code</strong></summary>
 
-Agents are converted to Kimi Code CLI format (YAML + system prompt) and installed to `~/.config/kimi/agents/`.
+Os agentes são convertidos para o formato da CLI do Kimi Code (YAML + prompt de sistema) e instalados em `~/.config/kimi/agents/`.
 
 ```bash
-# Convert and install
+# Converter e instalar
 ./scripts/convert.sh --tool kimi
 ./scripts/install.sh --tool kimi
 ```
 
-**Usage with Kimi Code:**
+**Como usar no Kimi Code:**
 ```bash
-# Use an agent
+# Usar um agente
 kimi --agent-file ~/.config/kimi/agents/frontend-developer/agent.yaml
 
-# In a project
+# Dentro de um projeto
 kimi --agent-file ~/.config/kimi/agents/frontend-developer/agent.yaml \
-     --work-dir /your/project \
+     --work-dir /seu/projeto \
      "Review this React component"
 ```
 
-See [integrations/kimi/README.md](integrations/kimi/README.md) for details.
+Veja mais detalhes em [integrations/kimi/README.md](integrations/kimi/README.md).
 
 </details>
 
 <details>
 <summary><strong>Codex</strong></summary>
 
-Each agent is converted into a Codex custom agent TOML file and installed to `~/.codex/agents/`.
+Cada agente é convertido em um arquivo TOML de agente customizado do Codex e instalado em `~/.codex/agents/`.
 
 ```bash
 ./scripts/convert.sh --tool codex
 ./scripts/install.sh --tool codex
 ```
 
-Then reference the custom agent by name in Codex:
+Depois, mencione o agente customizado pelo nome no Codex:
 ```
 Use the Frontend Developer agent to review this component.
 ```
 
-See [integrations/codex/README.md](integrations/codex/README.md) for details.
+Veja mais detalhes em [integrations/codex/README.md](integrations/codex/README.md).
 </details>
 
 ---
 
-### Regenerating After Changes
+### Regenerando Arquivos após Alterações
 
-When you add new agents or edit existing ones, regenerate all integration files:
+Sempre que adicionar novos agentes ou editar os existentes, gere novamente os arquivos de integração:
 
 ```bash
-./scripts/convert.sh                    # regenerate all (serial)
-./scripts/convert.sh --parallel         # regenerate all in parallel (faster)
-./scripts/convert.sh --tool codex       # regenerate just one tool
-./scripts/convert.sh --tool cursor      # regenerate just one tool
+./scripts/convert.sh                    # regenerar todos (sequencial)
+./scripts/convert.sh --parallel         # regenerar todos em paralelo (mais rápido)
+./scripts/convert.sh --tool codex       # regenerar apenas para uma ferramenta
+./scripts/convert.sh --tool cursor      # regenerar apenas para uma ferramenta
 ```
 
 ---
 
-## 🗺️ Roadmap
+## 🗺️ Roadmap de Desenvolvimento
 
-- [ ] Interactive agent selector web tool
-- [x] Multi-agent workflow examples -- see [examples/](examples/)
-- [x] Multi-tool integration scripts (Claude Code, GitHub Copilot, Antigravity, Gemini CLI, OpenCode, OpenClaw, Cursor, Aider, Windsurf, Qwen Code, Kimi Code, Codex, Osaurus, Hermes)
-- [ ] Video tutorials on agent design
-- [ ] Community agent marketplace
-- [ ] Agent "personality quiz" for project matching
-- [ ] "Agent of the Week" showcase series
+- [ ] Ferramenta web interativa para seleção de agentes
+- [x] Exemplos de fluxos de trabalho multi-agente — veja em [examples/](examples/)
+- [x] Scripts de integração multi-ferramenta (Claude Code, GitHub Copilot, Antigravity, Gemini CLI, OpenCode, OpenClaw, Cursor, Aider, Windsurf, Qwen Code, Kimi Code, Codex, Osaurus, Hermes)
+- [ ] Tutoriais em vídeo sobre criação de agentes
+- [ ] Marketplace comunitário de agentes
+- [ ] "Quiz de personalidade" de agentes para recomendação em projetos
+- [ ] Série de destaques "Agente da Semana"
 
 ---
 
-## 🌐 Community Translations & Localizations
+## 🌐 Traduções e Localizações da Comunidade
 
-Community-maintained translations and regional adaptations. These are independently maintained -- see each repo for coverage and version compatibility.
+Traduções e adaptações regionais mantidas pela comunidade. Estes projetos são mantidos de forma independente — consulte cada repositório para verificar a cobertura e a compatibilidade de versões.
 
-| Language | Maintainer | Link | Notes |
+| Idioma | Mantenedor | Link | Observações |
 |----------|-----------|------|-------|
-| 🇨🇳 简体中文 (zh-CN) | [@jnMetaCode](https://github.com/jnMetaCode) | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 141 translated agents + 46 China-market originals |
-| 🇨🇳 简体中文 (zh-CN) | [@dsclca12](https://github.com/dsclca12) | [agent-teams](https://github.com/dsclca12/agent-teams) | Independent translation with Bilibili, WeChat, Xiaohongshu localization |
-| 🇧🇷 Português brasileiro (pt-BR) | [@jnMetaCode](https://github.com/jnMetaCode) | [agency-agents-pt-BR](https://github.com/jnMetaCode/agency-agents-pt-BR) | 184 upstream agents translated; Brazil-market PRs welcome |
-| 🇷🇺 Русский (ru) | [@jnMetaCode](https://github.com/jnMetaCode) | [agency-agents-ru](https://github.com/jnMetaCode/agency-agents-ru) | 184 upstream agents translated; Russia-market PRs welcome |
-| 🇮🇩 Bahasa Indonesia (id) | [@jnMetaCode](https://github.com/jnMetaCode) | [agency-agents-id](https://github.com/jnMetaCode/agency-agents-id) | 184 upstream agents translated; Indonesia-market PRs welcome |
-| 🇸🇦 العربية (ar) | [@jnMetaCode](https://github.com/jnMetaCode) | [agency-agents-ar](https://github.com/jnMetaCode/agency-agents-ar) | 184 upstream agents translated; Arabic-market PRs welcome |
-| 🇰🇷 한국어 (ko) | [@jnMetaCode](https://github.com/jnMetaCode) | [agency-agents-ko](https://github.com/jnMetaCode/agency-agents-ko) | 184 upstream agents fully translated; Korea-specific PRs welcome |
-| 🇯🇵 日本語 (ja-JP) | [@sscodeai](https://github.com/sscodeai) | [agency-agents-ja](https://github.com/sscodeai/agency-agents-ja) | 281 Japan-localized agents + 97 Japan-market originals + 27 workflows |
-| 🇻🇳 Tiếng Việt (vi-VN) | [@rodonguyen](https://github.com/rodonguyen) | [agency-agents](https://github.com/rodonguyen/agency-agents) | Starter Vietnamese localization focused on README, quick start, and high-use docs |
+| 🇨🇳 简体中文 (zh-CN) | [@jnMetaCode](https://github.com/jnMetaCode) | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 141 agentes traduzidos + 46 originais para o mercado chinês |
+| 🇨🇳 简体中文 (zh-CN) | [@dsclca12](https://github.com/dsclca12) | [agent-teams](https://github.com/dsclca12/agent-teams) | Tradução independente com foco em Bilibili, WeChat e Xiaohongshu |
+| 🇧🇷 Português brasileiro (pt-BR) | [@jnMetaCode](https://github.com/jnMetaCode) | [agency-agents-pt-BR](https://github.com/jnMetaCode/agency-agents-pt-BR) | 184 agentes traduzidos; PRs para o mercado brasileiro são bem-vindos |
+| 🇷🇺 Русский (ru) | [@jnMetaCode](https://github.com/jnMetaCode) | [agency-agents-ru](https://github.com/jnMetaCode/agency-agents-ru) | 184 agentes traduzidos; PRs para o mercado russo são bem-vindos |
+| 🇮🇩 Bahasa Indonesia (id) | [@jnMetaCode](https://github.com/jnMetaCode) | [agency-agents-id](https://github.com/jnMetaCode/agency-agents-id) | 184 agentes traduzidos; PRs para o mercado indonésio são bem-vindos |
+| 🇸🇦 العربية (ar) | [@jnMetaCode](https://github.com/jnMetaCode) | [agency-agents-ar](https://github.com/jnMetaCode/agency-agents-ar) | 184 agentes traduzidos; PRs para o mercado árabe são bem-vindos |
+| 🇰🇷 한국어 (ko) | [@jnMetaCode](https://github.com/jnMetaCode) | [agency-agents-ko](https://github.com/jnMetaCode/agency-agents-ko) | 184 agentes traduzidos; PRs específicos para a Coreia são bem-vindos |
+| 🇯🇵 日本語 (ja-JP) | [@sscodeai](https://github.com/sscodeai) | [agency-agents-ja](https://github.com/sscodeai/agency-agents-ja) | 281 agentes localizados para o Japão + 97 originais + 27 fluxos de trabalho |
+| 🇻🇳 Tiếng Việt (vi-VN) | [@rodonguyen](https://github.com/rodonguyen) | [agency-agents](https://github.com/rodonguyen/agency-agents) | Versão inicial em vietnamita focada no README, início rápido e docs essenciais |
 
-Want to add a translation? Open an issue and we'll link it here.
-
----
-
-## 🔗 Related Resources
-
-- [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) — Community-maintained OpenClaw agent collection (derived from this repo)
+Quer adicionar uma tradução? Abra uma issue no repositório para adicionarmos o link aqui.
 
 ---
 
-## 📜 License
+## 🔗 Recursos Relacionados
 
-MIT License - Use freely, commercially or personally. Attribution appreciated but not required.
-
----
-
-## 🙏 Acknowledgments
-
-What started as a Reddit thread about AI agent specialization has grown into something remarkable — **230+ agents across every division**, supported by a community of contributors from around the world. Every agent in this repo exists because someone cared enough to write it, test it, and share it.
-
-To everyone who has opened a PR, filed an issue, started a Discussion, or simply tried an agent and told us what worked — thank you. You're the reason The Agency keeps getting better.
+- [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) — Coleção de agentes mantida pela comunidade para OpenClaw (derivada deste repositório)
 
 ---
 
-## 💬 Community
+## 📜 Licença
 
-- **GitHub Discussions**: [Share your success stories](https://github.com/msitarzewski/agency-agents/discussions)
-- **Issues**: [Report bugs or request features](https://github.com/msitarzewski/agency-agents/issues)
-- **Reddit**: Join the conversation on r/ClaudeAI
-- **Twitter/X**: Share with #TheAgency
+Licença MIT — Use livremente, seja para fins comerciais ou pessoais. Créditos são apreciados, mas não obrigatórios.
 
 ---
 
-## 🚀 Get Started
+## 🙏 Agradecimentos
 
-1. **Browse** the agents above and find specialists for your needs
-2. **Copy** the agents to `~/.claude/agents/` for Claude Code integration
-3. **Activate** agents by referencing them in your Claude conversations
-4. **Customize** agent personalities and workflows for your specific needs
-5. **Share** your results and contribute back to the community
+O que começou como uma simples conversa no Reddit sobre especialização de agentes de IA transformou-se em um projeto incrível — **mais de 230 agentes distribuídos por todas as divisões**, apoiados por uma comunidade global de colaboradores. Cada agente existe porque alguém se dedicou a escrever, testar e compartilhar.
+
+A todos que abriram um Pull Request, registraram uma issue, iniciaram uma discussão ou simplesmente usaram um agente e compartilharam seu feedback: muito obrigado! Vocês são o motivo pelo qual o The Agency continua evoluindo.
+
+---
+
+## 💬 Comunidade
+
+- **GitHub Discussions**: [Compartilhe suas histórias de sucesso](https://github.com/msitarzewski/agency-agents/discussions)
+- **Issues**: [Reporte bugs ou sugira novas funcionalidades](https://github.com/msitarzewski/agency-agents/issues)
+- **Reddit**: Participe das conversas em r/ClaudeAI
+- **Twitter/X**: Compartilhe usando a hashtag #TheAgency
+
+---
+
+## 🚀 Como Começar
+
+1. **Navegue** pelos agentes listados acima e escolha os especialistas necessários
+2. **Copie** os arquivos para `~/.claude/agents/` caso use o Claude Code
+3. **Ative** os agentes chamando seus papéis durante as conversas
+4. **Personalize** as personas e processos de acordo com as necessidades do seu projeto
+5. **Compartilhe** seus resultados e contribua de volta com a comunidade
 
 ---
 
 <div align="center">
 
-**🎭 The Agency: Your AI Dream Team Awaits 🎭**
+**🎭 The Agency: O Time dos Sonhos de IA à Sua Disposição 🎭**
 
-[⭐ Star this repo](https://github.com/msitarzewski/agency-agents) • [🍴 Fork it](https://github.com/msitarzewski/agency-agents/fork) • [🐛 Report an issue](https://github.com/msitarzewski/agency-agents/issues) • [❤️ Sponsor](https://github.com/sponsors/msitarzewski)
+[⭐ Dê uma estrela no repo](https://github.com/msitarzewski/agency-agents) • [🍴 Faça um Fork](https://github.com/msitarzewski/agency-agents/fork) • [🐛 Reporte um problema](https://github.com/msitarzewski/agency-agents/issues) • [❤️ Apoie o projeto](https://github.com/sponsors/msitarzewski)
 
-Made with ❤️ by the community, for the community
+Feito com ❤️ pela comunidade, para a comunidade
 
 </div>
